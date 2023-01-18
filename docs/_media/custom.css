@@ -1,18 +1,70 @@
-section.cover.has-mask .mask {
-  background-image: linear-gradient(hsla(0, 0%, 100%, 0.25),hsla(0, 0%, 100%, 0.75));
-  background-color: transparent;
-  opacity: 1;
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  padding:16px;
 }
 
-section.cover h1 .anchor span{
-  font-family: 'Lobster', cursive;
-  color: var(--theme-color);
+.title {
+  color: grey;
+  font-size: 18px;
 }
 
-section.cover .cover-main>p:last-child a .iconfont {
-  font-size: 1em;
+.card-img {
+    height:200px;
 }
 
-.sidebar>h1 a {
-  font-family: 'Lobster', cursive;
+/* Add rounded corners to the top left and the top right corner of the image */
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0px 10px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
 }
