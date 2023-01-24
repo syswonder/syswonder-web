@@ -2,7 +2,7 @@
 
 <h2>For edge computing scenaros with mixed real-time and non-real-time jobs</h2>
 
-<h2>On asymmetric multile processos SoC(MCU, CPU, DSP, etc) hardware</h2>
+<h2>On asymmetric multile processors SoC(MCU, CPU, DSP, etc) hardware</h2>
 
 <h2>Building safe and efficent new ubiquitous OS in memory-safe Rust language </h2>
 

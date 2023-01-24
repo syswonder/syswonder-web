@@ -13,41 +13,41 @@
   <meta name="description" content="Syswonder UOS Open Source Community">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0">
 
-  <link rel="stylesheet" href="./_media/custom.css">
   <link rel="stylesheet" href="//unpkg.com/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="//unpkg.com/docsify@4/lib/themes/buble.css">
+
+  <link rel="stylesheet" href="./_media/custom.css">
 </head>
 
 <body>
   <div id="app"></div>
   <script>
-    // Set html "lang" attribute based on URL
-    var lang = location.hash.match(/#\/(en)\//);
-
-    if (lang) {
-      document.documentElement.setAttribute('lang', lang[1]);
-    }
-
     window.$docsify = {
-      name: 'Syswonder',
+      name: 'SysWonder',
       repo: 'https://github.com/syswonder',
-      loadSidebar: false,
-      hideSidebar: true,
+      loadSidebar: true,
+      hideSidebar: false,
       loadNavbar: true,
       mergeNavbar: true,
-      maxLevel: 4,
-      subMaxLevel: 2,
+      subMaxLevel: 3,
       auto2top: true,
       markdown: {
         gfm: true,
         tables: true,
       },
       coverpage: true,
-      coverpage: ['/','/en/'],
+      coverpage: ['/', '/en/'],
       nameLink: {
         '/en/': '#/en/',
         '/': '#/',
       },
+
+      homepage: 'intro.md',
+      alias: {
+        '/': '/intro.md',
+        '/en/': '/en/intro.md',
+      },
+
       search: {
         noData: {
           '/en/': 'No results!',
@@ -58,27 +58,22 @@
           '/en/': 'Search',
           '/': '搜索',
         },
-        pathNamespaces: ['/en'],
+        pathNamespaces: ['/', '/en'],
       },
+      footer: {
+        copy: '<span>Copyright &copy; 2023</span>',
+        auth: 'by SysWonder Community',
+        pre: '<hr/>',
+        style: 'text-align: center;',
+        class: 'className',
+    },
 
-      homepage: 'intro.md',
-      alias: {
-        '/': '/intro.md',
-        '/en/': '/en/intro.md',
-      },
-      ga: 'UA-112481080-1',
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-nginx.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-json.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-javascript.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-diff.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
-  <script src="//unpkg.com/vue@2/dist/vue.min.js"></script>
+  <script src="//unpkg.com/docsify@4"></script>
+  <script src="//unpkg.com/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs@1/components/prism-markdown.min.js"></script>
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 </body>
 </html>

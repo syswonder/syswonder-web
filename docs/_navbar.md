@@ -1,7 +1,11 @@
 - [首页](/)
-- [介绍](/intro.md)
+- [动态](/news/README.md)
 - [项目](/projects.md)
 - [课程](/courses.md)
-- [社区](/community.md)
+- 关于
+  - [简介](/intro.md)
+  - [泛在操作系统](/uos.md)
+  - [社区组织](/community.md)
+  - [联系我们](/contact.md)
 - [:uk: English](/en/)
 
