@@ -6,8 +6,9 @@
 
 <h2>Building safe and efficent new ubiquitous OS in memory-safe Rust language </h2>
 
-[<i class="iconfont icon-github"></i> GitHub](https://github.com/syswonder)
-[Introduction <i class="iconfont icon-down"></i>](#main)
+[<i class="fa-brands fa-github"></i> GitHub](https://github.com/syswonder)
+[Readme <i class="fa-solid fa-angles-down"></i>](#main)
+
 
 <!-- background image -->
 ![](https://i.loli.net/2018/01/15/5a5bcb771cc40.jpg)
