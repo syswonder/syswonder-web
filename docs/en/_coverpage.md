@@ -10,5 +10,8 @@
 [Readme <i class="fa-solid fa-angles-down"></i>](#main)
 
 
-<!-- background image -->
+<!-- background image 
 ![](https://i.loli.net/2018/01/15/5a5bcb771cc40.jpg)
+![](_media/bg-plant-sprouting.jpg)
+-->
+![](_media/bg-bluesea.jpg)
