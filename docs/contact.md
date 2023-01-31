@@ -7,7 +7,7 @@
 如果您有意参与项目开发，请将GitLink/syswonder下面的项目设置为upstream
 
 
-我们在<i class="fa-brands fa-github"></i> Github也有镜像 [https://github.com/syswonder](https://github.com/syswonder)
+我们在 <i class="fa-brands fa-github"></i> Github 也有镜像 [https://github.com/syswonder](https://github.com/syswonder)
 
 <i class="fa-solid fa-envelopes-bulk"></i> **邮件列表**
 
