@@ -5,3 +5,4 @@
 * [项目](/projects.md)
 * [课程](/courses.md)
 * [社区](/community.md)
+* [协作](/contrib.md)

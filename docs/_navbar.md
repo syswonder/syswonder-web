@@ -6,6 +6,7 @@
   - [简介](/intro.md)
   - [泛在操作系统](/uos.md)
   - [社区组织](/community.md)
+  - [如何协作](/contrib.md)
   - [联系我们](/contact.md)
 - [:uk: English](/en/)
 
