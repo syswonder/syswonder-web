@@ -2,12 +2,11 @@
 
 <i class="fa-solid fa-code-commit"></i> **开源仓库**
 
-主仓库在GitLink <a href="https://gitlink.org.cn/syswonder">https://gitlink.org.cn/syswonder </a>
+主仓库在<i class="fa-brands fa-github"></i> Github [https://github.com/syswonder](https://github.com/syswonder)
 
-如果您有意参与项目开发，请将GitLink/syswonder下面的项目设置为upstream
+如果您有意参与项目开发，请将其下的项目设置为upstream
 
-
-我们在 <i class="fa-brands fa-github"></i> Github 也有镜像 [https://github.com/syswonder](https://github.com/syswonder)
+我们在GitLink <a href="https://gitlink.org.cn/syswonder">https://gitlink.org.cn/syswonder </a> 也有镜像 
 
 <i class="fa-solid fa-envelopes-bulk"></i> **邮件列表**
 
