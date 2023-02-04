@@ -2,11 +2,9 @@
 
 <i class="fa-solid fa-code-commit"></i> **Source Code Repository**
 
-The main repository is at GitLink <a href="https://gitlink.org.cn/syswonder">https://gitlink.org.cn/syswonder </a>
+The main repository is at <i class="fa-brands fa-github"></i> Github [https://github.com/syswonder](https://github.com/syswonder)
 
-Please set the projects of GitLink/syswonder as the upstream of yours.
-
-At <i class="fa-brands fa-github"></i> Github, we also maintain mirrors [https://github.com/syswonder](https://github.com/syswonder)
+We also maintain mirrors at GitLink <a href="https://gitlink.org.cn/syswonder">https://gitlink.org.cn/syswonder </a>
 
 <i class="fa-solid fa-envelopes-bulk"></i> **Mail lists**
 
