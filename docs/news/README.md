@@ -9,7 +9,7 @@
 
 主题：2022秋冬季训练营总结报告&组件化操作系统的技术交流
 
-内容: [这里](https://maillist.syswonder.org/hyperkitty/list/bulletin@syswonder.org/thread/3HOUPTUZKPPSK6KWRHL3AR257CNAS35A/)
+内容: [这里](https://maillist.syswonder.org/archives/list/bulletin@syswonder.org/thread/3HOUPTUZKPPSK6KWRHL3AR257CNAS35A/)
 
 [#TencentMeeting: 584-567-140](https://meeting.tencent.com/dm/ElqF4FerRXQ3)
 
