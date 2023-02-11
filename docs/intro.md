@@ -21,7 +21,7 @@
   Type 1 hypervisor的分区隔离，实时RTOS和非实时的Linux或Android虚拟机可
   以正常运行，满足各自的应用需求。separation kernel常见于面向高可靠高安全(safety)应用的操作系统，如[PikeOS](https://www.sysgo.com/fileadmin/user_upload/data/professional_article_download/SYSGO_PA_2019-03_Separation_Kernel_as_a_basis_for_certifiable_applications_and_systems.pdf)。
 
-- 一个兼容Linux应用的轻量化库操作系统，主要遵循[unikernel](https://en.wikipedia.org/wiki/Unikernel)设计思想，考虑到边缘泛在计算场景下，应用通常数目有限且相对固定，因此将操作系统简化设计为只支持单应用，将内核功能封装为库，以系统调用的形式提供给应用，应用直接运行在内核态。这种库形态的操作系统应用性能会有极大提升，安全问题(security)主要交给底层的Type 1 hypervisor解决。库形态的操作系统需要良好的工具支持，以方便用户根据单一应用生成构造可运行的二进制镜像，如[unicraft](https://unikraft.org)。
+- 一个兼容Linux应用的轻量化库操作系统，主要遵循[unikernel](https://en.wikipedia.org/wiki/Unikernel)设计思想，考虑到边缘泛在计算场景下，应用通常数目有限且相对固定，因此将操作系统简化设计为只支持单应用，将内核功能封装为库，以系统调用的形式提供给应用，应用直接运行在内核态。这种库形态的操作系统应用性能会有极大提升，安全问题(security)主要交给底层的Type 1 hypervisor解决。库形态的操作系统需要良好的工具支持，以方便用户根据单一应用生成构造可运行的二进制镜像，如[unikraft](https://unikraft.org)。
 
 - 一组用Rust语言实现的操作系统基础构件（component），如文件系统、网络协议栈、内存管理器、消息通信机制等。基于这些构件可实现特定的库操作系统。
 
