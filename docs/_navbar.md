@@ -1,5 +1,5 @@
 - [首页](/)
-- [动态](/news/README.md)
+- [动态](/news/)
 - [项目](/projects.md)
 - [课程](/courses.md)
 - 关于
