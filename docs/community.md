@@ -1,6 +1,42 @@
 # 矽望开源社区
 
-## 开源技术委员会
+## 关于矽望社区
+
+矽望社区和清华大学陈渝教授创建的rcore-os社区及learningOS社区互相支持，各有侧重。
+矽望syswonder致力于泛在操作系统的开源发展与建设，推动泛在操作系统在不同领域的落地。rcore-os主要探索基于Rust语言的系统软件（主要是Kernel、Hypervisor、Runtime、Driver等）设计与构造的新思路。learningos主要培养操作系统人才。三个社区相互支持与帮助，共同推动操作系统的发展。
+
+
+![](_media/communities.svg)
+
+### rcore-os社区
+
+[rcore-os开源社区](https://github.com/rcore-os/)主要包含了清华大学和国内外开源爱好者从2018年以来用Rust语言开发操作系统内核和其它相关组件的OS教学和科研探索。主要包括：
+
+ - [用于教学的rCore-Tutorial v3 kernel](https://github.com/rcore-os/rCore-Tutorial-v3)
+ - [基于rCore-Tutorial v3 kernel的OS教材](https://github.com/rcore-os/rCore-Tutorial-Book-v3/)
+ - [支持Linux syscall的rCore kernel](https://github.com/rcore-os/rCore)
+ - [支持Linux/Zircon syscall的zCore kernel](https://github.com/rcore-os/zCore)
+ - [简单的Hypervisor：RVM](https://github.com/rcore-os/RVM)
+ - [组件化kernel框架：arceos](https://github.com/rcore-os/arceos)
+
+以及各种奇怪的OS、hypervisor、runtime、driver、与OS无关并可用于组合出不同OS的组件等（驱动，文件系统、网络协议栈等）。
+
+### learningOS社区
+
+[开源操作系统训练营learningOS](https://github.com/learningOS)作为一个面向OS教育的开源社区，致力于培养操作系统人才。它将建立一种长期持续发展的操作系统训练营模式，即各种操作系统相关的学习资源都开源并整理集中在一起，导师/助教和学生/爱好者之间基于要做的实验或项目不定期/定期的进行交流。学生/爱好者完成了一定程度的学习和训练后，除了自身得到能力的提升外，还可获得相关证书和就业/学习等机会和相关推荐等，推动他在未来的进一步发展。目前的主要项目包括：
+
+- [操作系统课程slides](https://github.com/LearningOS/os-lectures)
+- [开源操作系统训练营课程](https://github.com/LearningOS/rust-based-os-comp2023)
+- [Rust编程训练课程](https://github.com/LearningOS/rustlings)
+- [内核实现比赛课程](https://github.com/LearningOS/oscomp-kernel-training)
+
+### 矽望社区
+
+矽望社区主要关注面向不同应用场景的泛在操作系统构建及应用技术。矽望社区很多项目技术及参考实现来自rcore-os社区。
+
+
+
+## 矽望开源技术委员会
 
 <div class="row">
   <div class="column">
