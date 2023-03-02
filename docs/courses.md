@@ -1,6 +1,15 @@
-# 矽望开源培训课程
+# 矽望开源课程
 
-矽望社区开源培训课程主要依托[rcore-os社区](https://github.com/rcore-os)的Rust实现OS相关课程，以及[learningOS社区](https://github.com/learningOS)的开源操作系统训练营。
+矽望社区开源课程目前主要依托社区参与人员作为教师主讲的各类课程，这些课程的相关资源均对外开放。
+
+## 开源操作系统训练营
+
+以往和现在正在开展的训练营相关资料：[https://github.com/learningOS](https://github.com/learningOS)
+
+!> 希望参与矽望社区项目的开发但之前没有相关开发经验的朋友，建议参加开源操作系统训练营，或自学[以往的训练营资料](https://github.com/learningOS)。
+
+邮件列表：[rustos-tutorial@syswonder.org](https://maillist.syswonder.org/mailman3/lists/rustos-tutorial.syswonder.org/)
+
 
 ## Rust实现OS课程
 
