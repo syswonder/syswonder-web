@@ -1,6 +1,19 @@
-# 矽望开源培训课程
+# 矽望开源课程
+
+矽望社区开源课程目前主要依托社区参与人员作为教师主讲的各类课程，这些课程的相关资源均对外开放。
+
+## 开源操作系统训练营
+
+以往和现在正在开展的训练营相关资料：[https://github.com/learningOS](https://github.com/learningOS)
+
+!> 希望参与矽望社区项目的开发但之前没有相关开发经验的朋友，建议参加开源操作系统训练营，或自学[以往的训练营资料](https://github.com/learningOS)。
+
+邮件列表：[rustos-tutorial@syswonder.org](https://maillist.syswonder.org/mailman3/lists/rustos-tutorial.syswonder.org/)
+
 
 ## Rust实现OS课程
+
+本课程内容来自清华大学计算机系向勇、陈渝等老师开设主讲的操作系统课程。
 
 OS 课程是计算机专业核心课，从计算机系统的视角进行内容组织与调整，以教学操
 作系统uCore/rCore和risc-v CPU为实验环境，讲授操作系统的概念、基本原理和
@@ -9,15 +22,15 @@ OS 课程是计算机专业核心课，从计算机系统的视角进行内容�
 
 目前包括三部分内容：
 
-**讲义**
+- **讲义**
 
-[<i class="fa-brands fa-github"></i> https://github.com/syswonder/os-lectures](https://github.com/syswonder/os-lectures/)
+[<i class="fa-brands fa-github"></i> https://github.com/rcore-os/os-lectures](https://github.com/rcore-os/os-lectures/)
 
-**教材**
+- **教材**
 
-[<i class="fa-brands fa-github"></i> https://github.com/syswonder/rCore-Tutorial-Book-v3](https://github.com/syswonder/rCore-Tutorial-Book-v3)
+[<i class="fa-brands fa-github"></i> https://github.com/rcore-os/rCore-Tutorial-Book-v3](https://github.com/rcore-os/rCore-Tutorial-Book-v3)
 
-**实验**
+- **实验**
 
-[<i class="fa-brands fa-github"></i> https://github.com/syswonder/rCore-Tutorial-v3](https://github.com/syswonder/rCore-Tutorial-v3)
+[<i class="fa-brands fa-github"></i> https://github.com/rcore-os/rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)
 
