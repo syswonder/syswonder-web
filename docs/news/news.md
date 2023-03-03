@@ -2,12 +2,19 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20230303 Hypervisor讨论会**
+
+时间：2023年3月3日
+
+地点：计算所446
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/KQW2DBUDWNSZ4CXDVZ7Q5QM2AQMCKBK5/)
 
 <i class="fa-solid fa-user-group"></i> **20230216 第3次社区讨论会**
 
 时间：2023年2月16日
 
-内容：[这里](https://maillist.syswonder.org/archives/list/bulletin@syswonder.org/message/ZQU6E25LAMGCOZMDDPGGGVWUCMEEUDFW/)
+内容：[这里](https://maillist.syswonder.org/archives/list/bulletin@syswonder.org/message/zqu6e25lamgcozmddpgggvwucmeeudfw/)
 
 <i class="fa-solid fa-user-group"></i> **石磊老师关于Linux组件化实验的报告**
 
