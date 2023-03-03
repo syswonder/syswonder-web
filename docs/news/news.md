@@ -14,7 +14,7 @@
 
 时间：2023年2月16日
 
-内容：[这里](https://maillist.syswonder.org/archives/list/bulletin@syswonder.org/message/zqu6e25lamgcozmddpgggvwucmeeudfw/)
+内容：[这里](https://maillist.syswonder.org/archives/list/bulletin@syswonder.org/message/ZQU6E25LAMGCOZMDDPGGGVWUCMEEUDFW/)
 
 <i class="fa-solid fa-user-group"></i> **石磊老师关于Linux组件化实验的报告**
 
