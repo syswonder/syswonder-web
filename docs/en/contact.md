@@ -16,6 +16,6 @@ Mail list is the recommended way to discuss projects.
 
 Please follow the WeChat public account "UbiquitousOS" (Chinese name: 泛在操作系统) to get more UOS information.
 
-![](_media/qrcode_4_ubiquitousos.jpg)
+![](../_media/qrcode_4_ubiquitousos.jpg)
 
 

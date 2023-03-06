@@ -1,13 +1,27 @@
 # Syswonder Open Source Projects
 
+
 ## rcore
 
-Rust实现的操作系统内核及基础构件。
+Reusable operating system kernel modules implemented in Rust.
 
-## rvisor
+Mail list: [bulletin@syswonder.org](https://maillist.syswonder.org/mailman3/lists/bulletin.syswonder.org/)
 
-Rust实现的Type1 Hypervisor，设计思想是作为[separation kernel](https://en.wikipedia.org/wiki/Separation_kernel)与[exokernel](https://en.wikipedia.org/wiki/Exokernel)，承担硬件资源的分区管理与虚拟化管理。
+## sysHyper
 
-## rlibos
+SysHyper is a separation kernel hypervisor implemented in Rust language.
+It is highly simplified and optimized for time and space partitioning.
+It is loaded by a Linux system. Once activated, it runs bare-metal, and
+splits off parts of the system' resources and assigns them to Unikernel
+OSs in different zones. The SysHyper design references much from [jailhouse](https://github.com/siemens/jailhouse).
 
-Rust实现的库形态泛在操作系统实例, 设计思想来自[Unikernel](https://en.wikipedia.org/wiki/Unikernel)。
+Mail list: [hypervisor@syswonder.org](https://maillist.syswonder.org/mailman3/lists/hypervisor.syswonder.org/)
+
+## rukos
+
+rukos (Rust UniKernel OS) is a [Unikernel](https://en.wikipedia.org/wiki/Unikernel) operating system, supporting Linux applications. rukos is built from the kernel framework [ArceOS](https://github.com/rcore-os/arceos). ArceOS defines a set of interfaces among different os modules. rukos addes/optimizes/replaces necessary modules to meet the requirements of different ubiquitous applications. As ArceOS, rukos is developped in type-safe Rust language. 
+
+Repo: [rukos@github](https://github.com/syswonder/rukos) (open soon)
+
+Mail list: [unikernel@syswonder.org](https://maillist.syswonder.org/mailman3/lists/unikernel.syswonder.org/)
+
