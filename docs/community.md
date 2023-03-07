@@ -36,8 +36,8 @@
 
 ## 矽望开源技术委员会
 
-<div class="row">
-  <div class="column">
+<div class="card-row">
+  <div class="card-column">
     <div class="card">
       <img class="card-img" src="https://www.cs.tsinghua.edu.cn/__local/3/EA/2B/A0177095645B03C810A03FD0EA8_F10993A0_1075E.jpg" alt="cy" style="height:200px">
       <div class="container">
@@ -48,7 +48,7 @@
     </div>
   </div>
 
-  <div class="column">
+  <div class="card-column">
     <div class="card">
       <img class="card-img" src="https://cs.pku.edu.cn/__local/A/EC/35/1B49D5E7086CA330473E0E96B6A_CAE8399A_D760.png" alt="caodg" style="height:200px">
       <div class="container">
@@ -59,7 +59,7 @@
     </div>
   </div>
 
-  <div class="column">
+  <div class="card-column">
     <div class="card">
       <img class="card-img" src="https://www.cs.tsinghua.edu.cn/__local/2/49/01/382767512A6D170C914F061BA08_814D0E83_1666C.jpg" alt="ck" style="height:200px">
       <div class="container">
@@ -73,8 +73,8 @@
 
 ---
 
-<div class="row">
-  <div class="column">
+<div class="card-row">
+  <div class="card-column">
     <div class="card">
       <img class="card-img" src="https://cs.pku.edu.cn/__local/5/2D/6D/9E0EE1D872F8EF7F776D3E0D564_1E54E99E_5355.jpg" alt="gy" style="height:200px">
       <div class="container">
@@ -85,7 +85,7 @@
     </div>
   </div>
 
-  <div class="column">
+  <div class="card-column">
     <div class="card">
       <img class="card-img" src="https://ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201212/P020221108527707635438.jpg" alt="ld" style="height:200px">
       <div class="container">
@@ -97,7 +97,7 @@
   </div>
 
 
-  <div class="column">
+  <div class="card-column">
     <div class="card">
       <img class="card-img" src="https://www.cs.sjtu.edu.cn/Management/Upload/[User]25a9bebb76cf4a3e985a9c1f94f28202/202158114444183u5FCQ.jpg" alt="xdl" style="height:200px">
       <div class="container">
