@@ -1,4 +1,4 @@
-![](_media/logo.png ':size=120x120')
+![](_media/logo.svg ':size=120x120')
 
 # syswonder 矽望泛在操作系统社区
 
