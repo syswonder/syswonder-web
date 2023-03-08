@@ -11,10 +11,5 @@
 [<i class="fa-brands fa-github"></i> GitHub](https://github.com/syswonder)
 [了解更多 <i class="fa-solid fa-angles-down"></i>](#main)
 
-<!-- background image 
-![](https://i.loli.net/2018/01/15/5a5bcb771cc40.jpg)
-![](_media/bg-plant-sprouting.jpg)
--->
+<!-- background image -->
 ![](_media/bg-bluesea.jpg)
-
-
