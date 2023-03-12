@@ -1,8 +1,17 @@
 # 矽望开源项目
 
-## rcore
+## rcore-os
 
-Rust实现的操作系统内核及基础构件。
+rcore-os开源社区主要包含了清华大学和国内外开源爱好者从2018年以来用Rust语言开发操作系统内核和其它相关组件的OS教学和科研探索。主要包括：
+
+- [用于教学的rCore-Tutorial v3 kernel](https://github.com/rcore-os/rCore-Tutorial-v3)
+- [基于rCore-Tutorial v3 kernel的OS教材](https://github.com/rcore-os/rCore-Tutorial-Book-v3/)
+- [支持Linux syscall的rCore kernel](https://github.com/rcore-os/rCore)
+- [支持Linux/Zircon syscall的zCore kernel](https://github.com/rcore-os/zCore)
+- [简单的Hypervisor：RVM](https://github.com/rcore-os/RVM)
+- [组件化kernel框架：arceos](https://github.com/rcore-os/arceos)
+
+以及各种奇怪的OS、hypervisor、runtime、driver、与OS无关并可用于组合出不同OS的组件等（驱动，文件系统、网络协议栈等）。
 
 邮件列表: [bulletin@syswonder.org](https://maillist.syswonder.org/mailman3/lists/bulletin.syswonder.org/)
 
