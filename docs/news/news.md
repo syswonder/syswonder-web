@@ -2,6 +2,13 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20230315 王雷老师rust-shyper技术交流会**
+
+时间：2023年3月15日
+
+地点：计算所801
+
+
 <i class="fa-solid fa-user-group"></i> **20230310 Hypervisor讨论会**
 
 时间：2023年3月10日
