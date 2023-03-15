@@ -2,6 +2,14 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20230317 Hypervisor讨论会**
+
+时间：2023年3月17日
+
+地点：计算所446
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/UURXNQSM4OZPXAPNX6QAARENUHHNJRGH/)
+
 <i class="fa-solid fa-user-group"></i> **20230315 王雷老师rust-shyper技术交流会**
 
 时间：2023年3月15日
