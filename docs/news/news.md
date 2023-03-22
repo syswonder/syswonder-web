@@ -2,6 +2,14 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20230324 Hypervisor讨论会**
+
+时间：2023年3月24日
+
+地点：启迪之星 云龙湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/H2N7LLOPLKCC3XHRXZJMIJIQSFPXAUNB/)
+
 <i class="fa-solid fa-user-group"></i> **20230317 Hypervisor讨论会**
 
 时间：2023年3月17日
