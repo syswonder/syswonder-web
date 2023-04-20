@@ -1,6 +1,13 @@
 # 最新动态
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
+<i class="fa-solid fa-user-group"></i> **20230421 Hypervisor讨论会**
+
+时间：2023年4月21日
+
+地点：计算所254会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/DI7VM2ZF5P3BIGOZW3BEPE7XUOEUYGEX/)
 
 <i class="fa-solid fa-user-group"></i> **20230414 Hypervisor讨论会**
 
