@@ -1,6 +1,15 @@
 # 最新动态
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
+
+<i class="fas fa-spinner fa-pulse"></i> <i class="fa-solid fa-chalkboard-user"></i> **2023春夏季开源OS训练营第三阶段 ArceOS**
+
+时间：2023年5月8日-5月26日
+
+详情与报名：[https://os2edu.cn/course/109](https://os2edu.cn/course/109)
+
+---
+
 <i class="fa-solid fa-user-group"></i> **20230421 Hypervisor讨论会**
 
 时间：2023年4月21日
