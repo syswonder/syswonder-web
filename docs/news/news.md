@@ -9,6 +9,13 @@
 详情与报名：[https://os2edu.cn/course/109](https://os2edu.cn/course/109)
 
 ---
+<i class="fa-solid fa-user-group"></i> **20230428 Hypervisor讨论会**
+
+时间：2023年4月28日
+
+地点：北京大学 理科1号楼1504
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/HAIOYZAROAJKRSBBDEXIUWCH5B37NITK/)
 
 <i class="fa-solid fa-user-group"></i> **20230421 Hypervisor讨论会**
 
