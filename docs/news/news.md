@@ -9,6 +9,14 @@
 详情与报名：[https://os2edu.cn/course/109](https://os2edu.cn/course/109)
 
 ---
+<i class="fa-solid fa-user-group"></i> **20230512 Hypervisor讨论会**
+
+时间：2023年5月12日
+
+地点：计算所422会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/Q5VGDD6ATGAUPKWALGLANHVJ4Y6P5WXU/)
+
 <i class="fa-solid fa-user-group"></i> **20230428 Hypervisor讨论会**
 
 时间：2023年4月28日
