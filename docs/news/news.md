@@ -1,5 +1,14 @@
 # 最新动态
 
+---
+<i class="fa-solid fa-user-group"></i> **20230519 Hypervisor讨论会**
+
+时间：2023年5月19日
+
+地点：计算所254会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/WWFWGW27FZQPZFBFPBYAR7R7WE4YQLFL/)
+
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
 <i class="fas fa-spinner fa-pulse"></i> <i class="fa-solid fa-chalkboard-user"></i> **2023春夏季开源OS训练营第三阶段 ArceOS**
