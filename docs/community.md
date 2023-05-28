@@ -110,6 +110,10 @@
 </div>
 
 
-## 开源协议
+## 社区文档
+
+文档主仓库在 [https://github.com/syswonder/report](https://github.com/syswonder/report)，提交报告的方法和[提交代码的方法](contrib.md)一致。
+
+文档可以在线查看，可以访问 [https://report.syswonder.org](https://report.syswonder.org), 或者 [https://syswonder.github.io/report](https://syswonder.github.io/report)
 
 
