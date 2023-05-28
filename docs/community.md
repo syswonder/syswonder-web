@@ -99,7 +99,7 @@
 
   <div class="card-column">
     <div class="card">
-      <img class="card-img" src="https://www.cs.sjtu.edu.cn/Management/Upload/[User]25a9bebb76cf4a3e985a9c1f94f28202/202158114444183u5FCQ.jpg" alt="xdl" style="height:200px">
+      <img class="card-img" src="https://www.cs.sjtu.edu.cn/Management/Upload/[User]25a9bebb76cf4a3e985a9c1f94f28202/202354221110793a4cQp.jpg" alt="xdl" style="height:200px">
       <div class="container">
         <h4>薛栋梁</h4>
         <p>上海交通大学</p>
