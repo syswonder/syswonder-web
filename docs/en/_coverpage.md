@@ -9,6 +9,7 @@
 > Building safe and efficent new ubiquitous OS in memory-safe Rust language
 
 [<i class="fa-brands fa-github"></i> GitHub](https://github.com/syswonder)
+[<i class="fa-solid fa-book"></i> TechReports](https://report.syswonder.org)
 [Readme <i class="fa-solid fa-angles-down"></i>](#main)
 
 ![](../_media/bg-bluesea.jpg)
