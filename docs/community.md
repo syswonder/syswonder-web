@@ -50,7 +50,7 @@
 
   <div class="card-column">
     <div class="card">
-      <img class="card-img" src="https://cs.pku.edu.cn/__local/A/EC/35/1B49D5E7086CA330473E0E96B6A_CAE8399A_D760.png" alt="caodg" style="height:200px">
+      <img class="card-img" src="https://caodg.github.io/caodg/img/caodg.png" alt="caodg" style="height:200px;">
       <div class="container">
         <h4>曹东刚</h4>
         <p>北京大学</p>
