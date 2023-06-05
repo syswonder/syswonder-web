@@ -4,6 +4,23 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fas fa-spinner fa-pulse"></i> <i class="fa-solid fa-chalkboard-user"></i> **虚拟化Hypervisor专题课程**
+
+自2023年6月5日晚20:00，将开始《Hypervisor虚拟化专题》课程，共分6个专题：
+
+1. 莫策：Rust-Shyper 开源项目
+2. 胡柯洋：Rust-Shyper 在 树莓派4B 上的移植
+3. 李宇：RVH 与 QEMU/KVM
+4. 陈岳：hcHyper 开源项目
+5. 齐呈祥：hypercraft 开源项目
+6. 季朋：virtio 介绍
+
+2023年6月5日-6月30日，每周一、三、五晚上20-21点，共4周12次课程，欢迎大家报名参加学习！
+
+报名链接：https://os2edu.cn/course/120
+
+关键字：课程, 培训, 训练
+
 <i class="fa-solid fa-user-group"></i> **20230602 Hypervisor讨论会**
 
 时间：2023年6月2日
@@ -20,11 +37,13 @@
 
 内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/Q3JXZA27GR6K2FZBIH4S5O2BJHQ4NL2X/)
 
-<i class="fas fa-spinner fa-pulse"></i> <i class="fa-solid fa-chalkboard-user"></i> **2023春夏季开源OS训练营第三阶段 ArceOS**
+<i class="fa-solid fa-chalkboard-user"></i> **2023春夏季开源OS训练营第三阶段 ArceOS**
 
 时间：2023年5月8日-5月26日
 
 详情与报名：[https://os2edu.cn/course/109](https://os2edu.cn/course/109)
+
+关键字：课程, 培训, 训练
 
 <i class="fa-solid fa-user-group"></i> **20230519 Hypervisor讨论会**
 
