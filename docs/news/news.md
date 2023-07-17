@@ -29,6 +29,14 @@
 
 关键字：课程, 培训, 训练
 
+<i class="fa-solid fa-user-group"></i> **20230630 Hypervisor讨论会**
+
+时间：2023年6月30日
+
+地点：计算所1401
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/VVKCKRZXARM3URYRLQZYN5ZJONMFOBWD/)
+
 <i class="fa-solid fa-user-group"></i> **20230602 Hypervisor讨论会**
 
 时间：2023年6月2日
