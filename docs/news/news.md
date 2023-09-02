@@ -12,6 +12,14 @@
 
 内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/AU7FMR2IG4Z55K3YQHCGYHTPOGNQIDCR/)
 
+<i class="fa-solid fa-user-group"></i> **20230728 Hypervisor讨论会**
+
+时间：2023年7月28日
+
+地点：北京大学 理科1号楼1504
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/JWNXJJ7VSM3PJ4RMMWBIL7ZC3ELSY24F/)
+
 <i class="fa-solid fa-user-group"></i> **20230714 Hypervisor讨论会**
 
 时间：2023年7月14日
