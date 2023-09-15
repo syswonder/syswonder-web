@@ -4,6 +4,14 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20230915 Hypervisor讨论会**
+
+时间：2023年9月15日
+
+地点：北京大学 理科1号楼1504
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/TQDQUA7ZKSJ3TRAJZR57ODGJKZ6BUDU6/)
+
 <i class="fa-solid fa-user-group"></i> **20230901 Hypervisor讨论会**
 
 时间：2023年9月1日
