@@ -17,11 +17,11 @@ OSs in different zones. The hvisor design references much from [jailhouse](https
 
 Mail list: [hypervisor@syswonder.org](https://maillist.syswonder.org/mailman3/lists/hypervisor.syswonder.org/)
 
-## rukos
+## ruxos
 
-rukos (Rust UniKernel OS) is a [Unikernel](https://en.wikipedia.org/wiki/Unikernel) operating system, supporting Linux applications. rukos is built from the kernel framework [ArceOS](https://github.com/rcore-os/arceos). ArceOS defines a set of interfaces among different os modules. rukos addes/optimizes/replaces necessary modules to meet the requirements of different ubiquitous applications. As ArceOS, rukos is developped in type-safe Rust language. 
+ruxos is a [Unikernel](https://en.wikipedia.org/wiki/Unikernel) operating system, supporting Linux applications. ruxos is built from the kernel framework [ArceOS](https://github.com/rcore-os/arceos). ArceOS defines a set of interfaces among different os modules. ruxos addes/optimizes/replaces necessary modules to meet the requirements of different ubiquitous applications. As ArceOS, ruxos is developped in type-safe Rust language. 
 
-Repo: [rukos@github](https://github.com/syswonder/rukos) (open soon)
+Repo: [ruxos@github](https://github.com/syswonder/ruxos) (open soon)
 
 Mail list: [unikernel@syswonder.org](https://maillist.syswonder.org/mailman3/lists/unikernel.syswonder.org/)
 
