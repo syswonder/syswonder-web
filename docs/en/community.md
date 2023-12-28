@@ -9,9 +9,10 @@
 **Members**
 
 - Donggang Cao, Peking University
+- Dong Li, Institute of Computing Technology, Chinese Academy of Sciences
 - Kang Chen, Tsinghua University 
 - Yao Guo, Peking University
-- Dong Li, Institute of Computing Technology, Chinese Academy of Sciences
 - Dongliang Xue, Advanced Institute of Information Technology, Peking University
+- Yongwang Zhao, Zhejiang University
 
 
