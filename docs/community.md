@@ -2,10 +2,7 @@
 
 ## 关于矽望社区
 
-矽望社区和清华大学陈渝教授创建的rcore-os社区及learningOS社区互相支持，各有侧重。
-
-矽望syswonder社区致力于泛在操作系统的开源发展与建设，关注面向不同应用场景的泛在操作系统构建及应用技术，推动泛在操作系统在不同领域的落地。矽望社区很多项目技术及参考实现来自rcore-os社区，贡献者培育及课程训练等主要依托learningOS社区。rcore-os主要探索基于Rust语言的系统软件（主要是Kernel、Hypervisor、Runtime、Driver等）设计与构造的新思路，learningos主要培养操作系统人才。三个社区相互支持与帮助，共同推动操作系统的发展。
-
+矽望syswonder社区致力于泛在操作系统的开源发展与建设，关注面向不同应用场景的泛在操作系统构建及应用技术，推动泛在操作系统在不同领域的落地。矽望社区很多项目技术及参考实现来自[rcore-os社区](https://rcore-os.cn)，贡献者培育及课程训练等主要依托[learningOS社区](https://learningos.cn)。rcore-os主要探索基于Rust语言的系统软件（主要是Kernel、Hypervisor、Runtime、Driver等）设计与构造的新思路，learningos主要培养操作系统人才。三个社区相互支持与帮助，共同推动操作系统的发展。
 
 
 ![](_media/communities.svg)
@@ -21,7 +18,6 @@
  - [简单的Hypervisor：RVM](https://github.com/rcore-os/RVM)
  - [组件化kernel框架：arceos](https://github.com/rcore-os/arceos)
 
-以及各种奇怪的OS、hypervisor、runtime、driver、与OS无关并可用于组合出不同OS的组件等（驱动，文件系统、网络协议栈等）。
 
 ### learningOS社区
 
@@ -39,8 +35,33 @@
 文档可以在线查看，可以访问 [https://report.syswonder.org](https://report.syswonder.org), 或者 [https://syswonder.github.io/report](https://syswonder.github.io/report)
 
 
+## 矽望开源社区委员会
+
+矽望开源社区委员会建设和维护社区生态，发展社区合作伙伴。
+
+<div class="card-row">
+  <div class="card-column">
+    <div class="card">
+      <img class="card-img" src="https://ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201212/P020221108527707635438.jpg" alt="ld" style="height:200px">
+      <div class="container">
+        <h4>李栋, 主席</h4>
+        <p>中科院计算所</p>
+        <a href="http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/201212/t20121207_3701870.html" class="btn btn-primary stretched-link">更多</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
 
 ## 矽望开源技术委员会
+
+矽望开源技术委员会定义和维护社区技术愿景，指导、建设和维护社区核心项目。
+委员会成员由技术专家组成，成为新成员须由至少一名现有专家提名，并获全体成
+员表决通过。
+
 
 <div class="card-row">
   <div class="card-column">
