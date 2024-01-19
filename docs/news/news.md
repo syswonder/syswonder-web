@@ -4,6 +4,14 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20240119 Hypervisor讨论会**
+
+时间：2024年1月19日
+
+地点：开芯院 后院芯议厅
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/AQMTV37T4LGRKPENRIBTOKXK6IHMOEAE/)
+
 <i class="fa-solid fa-user-group"></i> **20240112 Hypervisor讨论会**
 
 时间：2024年1月12日
