@@ -15,14 +15,8 @@
 
 为了实现上述目标，社区将主要聚焦下述项目：
 
-- 一个轻量化的Type 1 hypervisor [hvisor](https://github.com/syswonder/hvisor)，主要遵循[separation kernel](https://en.wikipedia.org/wiki/Separation_kernel)思想，主要功能
-  是通过严格分区（zone）保证各个分区在时间和空间上的严格隔离，从而
-  可以同时支持各个分区独立互不干扰运行。分区常见的形式是轻量虚拟机。通过
-  Type 1 hypervisor的分区隔离，实时RTOS和非实时的Linux或Android虚拟机可
-  以正常运行，满足各自的应用需求。separation kernel常见于面向高可靠高安全(safety)应用的操作系统，如[PikeOS](https://www.sysgo.com/fileadmin/user_upload/data/professional_article_download/SYSGO_PA_2019-03_Separation_Kernel_as_a_basis_for_certifiable_applications_and_systems.pdf)。
-  目前设计支持三种分区：承担系统管理任务的zone0，一般是简化版的Linux；承
-  担高算力计算任务的zoneU，一般是unikernel OS；承担实时计算任务的zoneR，
-  一般是面向MCU的RTOS。
+- 一个轻量化的Type 1 hypervisor [hvisor](https://github.com/syswonder/hvisor)，主要遵循[separation kernel](https://en.wikipedia.org/wiki/Separation_kernel)思想，主要功能是管理系统物理资源，将资源组织到各个分区（zone）中，通过严格分区保证各个分区在时间和空间上的严格隔离，从而可以同时支持各个分区的系统独立互不干扰运行。分区里部署运行的系统称为租户tenant，常以轻量虚拟机方式运行。常见的租户有标准Linux OS，Unikernel OS，Android OS，实时RTOS甚至裸机应用。通过Type 1 hypervisor的分区隔离，实时RTOS和非实时的Linux或Android虚拟机可以正常运行，满足各自的应用需求。separation kernel常见于面向高可靠高安全(safety)应用的操作系统，如[PikeOS](https://www.sysgo.com/fileadmin/user_upload/data/professional_article_download/SYSGO_PA_2019-03_Separation_Kernel_as_a_basis_for_certifiable_applications_and_systems.pdf)。
+  在目前设计中，zone0也称为根zone（root zone），承担系统管理任务，tenant 一般是简化版的Linux。zoneU一般承担高算力计算任务，tenant 可以是unikernel OS，或者Linux OS；承担实时计算任务的zoneR，tenant 一般是面向MCU的RTOS。
 
 - 一个兼容Linux应用的轻量化库操作系统[RuxOS](https://github.com/syswonder/ruxos)，主要遵循[unikernel](https://en.wikipedia.org/wiki/Unikernel)设计思想，考虑到边缘泛在计算场景下，应用通常数目有限且相对固定，因此将操作系统简化设计为只支持单应用，将内核功能封装为库，以系统调用的形式提供给应用，应用直接运行在内核态。这种库型态的操作系统应用性能会有极大提升，安全问题(security)主要交给底层的Type 1 hypervisor解决。库型态的操作系统需要良好的工具支持，以方便用户根据单一应用生成构造可运行的二进制镜像，如[unikraft](https://unikraft.org)。
 
@@ -30,7 +24,7 @@
 
 - 对Hypervisor等关键系统进行形式化验证。
 
-底层硬件方面，将面向非对称多处理器SoC（MCU， CPU， DSP等）新型硬件平台。前期将基于QEMU，之后将基于物理开发板进行。
+底层硬件方面，将面向非对称多处理器SoC（MCU， CPU， FPGA，GNU，DSP等）新型硬件平台。前期将基于QEMU，之后将基于物理开发板进行。
 
 ![](_media/overview.svg)
 
