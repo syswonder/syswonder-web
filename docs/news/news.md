@@ -12,6 +12,13 @@
 
 内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/F3TZM4XFEWLVVVPJCCDYU5YCDGJEIXW5/)
 
+<i class="fa-solid fa-user-group"></i> **20240306 Hypervisor讨论会**
+
+时间：2024年3月6日
+
+地点：开芯院 415雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/72MYL4OQL4AL4PJPO6BUYXIYUV66PM5M/)
 
 <i class="fa-solid fa-user-group"></i> **20240228 Hypervisor讨论会**
 
