@@ -4,6 +4,14 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20240314 Unikernel讨论会**
+
+时间：2024年3月14日
+
+地点：清华大学 FIT-3-502
+
+内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/BJ4CBNZU3SE2S4HCGTA6U5VG5QUNZKE6/)
+
 <i class="fa-solid fa-user-group"></i> **20240313 Hypervisor讨论会**
 
 时间：2024年3月13日
