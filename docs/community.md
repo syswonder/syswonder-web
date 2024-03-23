@@ -147,6 +147,18 @@
     </div>
   </div>
 
+  <div class="card-column">
+    <div class="card">
+      <img class="card-img" src="https://dl.ccf.org.cn/file_server//upload/image/20220529/1653789113202090918.png" alt="zy" style="height:200px">
+      <div class="container">
+        <h4>张羽</h4>
+        <p>西北工业大学</p>
+        <a href="https://teacher.nwpu.edu.cn/yuzhang.html" class="btn btn-primary stretched-link">更多</a>
+      </div>
+    </div>
+  </div>
+
+
 </div>
 
 
