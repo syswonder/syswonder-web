@@ -42,11 +42,11 @@
 <div class="card-row">
   <div class="card-column">
     <div class="card">
-      <img class="card-img" src="https://ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201212/P020221108527707635438.jpg" alt="ld" style="height:200px">
+      <img class="card-img" src="https://ict.cas.cn/sourcedb/cn/jssrck/201212/P020221108527707635438.jpg" alt="ld" style="height:200px">
       <div class="container">
         <h4>李栋, 主席</h4>
         <p>中科院计算所</p>
-        <a href="http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201212/t20121207_3701870.html" class="btn btn-primary stretched-link">更多</a>
+        <a href="http://www.ict.cas.cn/sourcedb/cn/jssrck/201212/t20121207_3701870.html" class="btn btn-primary stretched-link">更多</a>
       </div>
     </div>
   </div>
@@ -112,11 +112,11 @@
 
   <div class="card-column">
     <div class="card">
-      <img class="card-img" src="https://ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201212/P020221108527707635438.jpg" alt="ld" style="height:200px">
+      <img class="card-img" src="https://ict.cas.cn/sourcedb/cn/jssrck/201212/P020221108527707635438.jpg" alt="ld" style="height:200px">
       <div class="container">
         <h4>李栋</h4>
         <p>中科院计算所</p>
-        <a href="http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/201212/t20121207_3701870.html" class="btn btn-primary stretched-link">更多</a>
+        <a href="http://www.ict.cas.cn/sourcedb/cn/jssrck/201212/t20121207_3701870.html" class="btn btn-primary stretched-link">更多</a>
       </div>
     </div>
   </div>
