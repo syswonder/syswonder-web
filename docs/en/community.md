@@ -1,6 +1,12 @@
 # Syswonder Open Source Community
 
-## Open Source Technical Community
+## Ecosystem Community Board
+
+**Chair**
+
+- Dong Li, Institute of Computing Technology, Chinese Academy of Sciences
+
+## Technical Community Board
 
 **Chair**
 

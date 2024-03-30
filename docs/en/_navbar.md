@@ -2,5 +2,10 @@
 - [Introduction](/en/intro.md)
 - [Projects](/en/projects.md)
 - [Community](/en/community.md)
+- Document
+  - [RuxOS BooK](https://ruxos.syswonder.org)
+  - [Hvisor Book](https://hvisor.syswonder.org)
+  - [Ruxgo Manual](https://ruxgo.syswonder.org)
+  - [Technical Report](https://report.syswonder.org)
 - [Contact](/en/contact.md)
 - [:cn: 中文](/)
