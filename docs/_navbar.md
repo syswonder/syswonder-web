@@ -7,6 +7,7 @@
 - 文档
   - [RuxOS Book](https://ruxos.syswonder.org)
   - [Hvisor Book](https://hvisor.syswonder.org)
+  - [Ruxgo 手册](https://ruxgo.syswonder.org)
   - [技术报告](https://report.syswonder.org)
 - 关于
   - [矽望简介](/intro.md)
