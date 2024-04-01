@@ -4,6 +4,14 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20240327 Hypervisor讨论会**
+
+时间：2024年3月27日
+
+地点：开芯院 415雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/QRPOA2XOM3F4TT5P5TPQX662TNJK6OY5/)
+
 <i class="fa-solid fa-user-group"></i> **20240321 Unikernel讨论会**
 
 时间：2024年3月21日
