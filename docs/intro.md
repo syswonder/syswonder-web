@@ -24,7 +24,7 @@
 
 - 对Hypervisor等关键系统进行形式化验证。
 
-底层硬件方面，将面向非对称多处理器SoC（MCU， CPU， FPGA，GNU，DSP等）新型硬件平台。前期将基于QEMU，之后将基于物理开发板进行。
+底层硬件方面，将面向非对称多处理器SoC（MCU， CPU， FPGA，GPU，NPU及DSP等ASIC）新型硬件平台。前期将基于QEMU，之后将基于物理开发板进行。
 
 ![](_media/overview.svg)
 
