@@ -18,6 +18,11 @@ python -m http.server
 
 then open a browser and visit http://localhost:8000
 
+## plugins
+
+used plugin: docsify-terminal-block
+
+
 ## contribute
 
 commit to your cloned repo and make a PR to https://github.com/syswonder/syswonder-web
