@@ -12,6 +12,14 @@
 
 内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/TN46PTQC7M6YSL2DAC7UFXUOWZQZ5SWS/)
 
+<i class="fa-solid fa-user-group"></i> **20240418 Unikernel讨论会**
+
+时间：2024年4月18日
+
+地点：北京大学 理科一号楼1621会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/VGR3DDUJA4GQGYTZBY63D3KKFW3QXV2B/)
+
 <i class="fa-solid fa-user-group"></i> **20240417 Hypervisor讨论会**
 
 时间：2024年4月17日
