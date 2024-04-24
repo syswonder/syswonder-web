@@ -4,6 +4,22 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20240424 Hypervisor讨论会**
+
+时间：2024年4月24日
+
+地点：开芯院 后院芯议厅
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/TN46PTQC7M6YSL2DAC7UFXUOWZQZ5SWS/)
+
+<i class="fa-solid fa-user-group"></i> **20240417 Hypervisor讨论会**
+
+时间：2024年4月17日
+
+地点：开芯院 后院芯议厅
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/TDC36YDQI7ZRKI7NRTONBOFMZDFNJS6C/)
+
 <i class="fa-solid fa-user-group"></i> **20240411 Unikernel讨论会**
 
 时间：2024年4月11日
