@@ -4,6 +4,14 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20240508 Hypervisor讨论会**
+
+时间：2024年5月8日
+
+地点：开芯院 后院芯议厅
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/IKC2K75ZFKNJBFO3JIZA4XEPKTK3NEIY/)
+
 <i class="fa-solid fa-user-group"></i> **20240425 Unikernel讨论会**
 
 时间：2024年4月25日
