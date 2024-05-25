@@ -5,10 +5,11 @@
 - [项目](/projects.md)
 - [课程](/courses.md)
 - 文档
+  - [论文报告](/pub.md)
+  - [技术博客](https://blog.syswonder.org)
   - [RuxOS Book](https://ruxos.syswonder.org)
   - [Hvisor Book](https://hvisor.syswonder.org)
   - [Ruxgo 手册](https://ruxgo.syswonder.org)
-  - [技术报告](https://report.syswonder.org)
 - 关于
   - [矽望简介](/intro.md)
   - [社区组织](/community.md)

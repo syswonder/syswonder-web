@@ -9,7 +9,7 @@
 > 用内存安全的Rust语言构建安全、高效、专用的新型态泛在操作系统
 
 [<i class="fa-brands fa-github"></i> GitHub](https://github.com/syswonder)
-[<i class="fa-solid fa-book"></i> 技术文档](https://report.syswonder.org)
+[<i class="fa-solid fa-book"></i> 技术博客](https://blog.syswonder.org)
 [了解更多 <i class="fa-solid fa-angles-down"></i>](#main)
 
 <!-- background image -->
