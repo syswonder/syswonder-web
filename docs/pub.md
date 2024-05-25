@@ -2,7 +2,7 @@
 
 ## 报告
 
-1. [**RuxOS技术分享**](/download/RuxOS-20240526.pdf), 陈康, 在2024全国大学生计算机系统能力大赛操作系统设计赛技术培训会的报告, 2024年5月26日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/RuxOS-20240526.pdf)
+1. [**RuxOS技术分享**](/download/RuxOS-20240526.pdf ':ignore'), 陈康, 在2024全国大学生计算机系统能力大赛操作系统设计赛技术培训会的报告, 2024年5月26日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/RuxOS-20240526.pdf ':ignore')
 
 ## 硕士论文
 
