@@ -28,11 +28,11 @@
 - [Rust编程训练课程](https://github.com/LearningOS/rustlings)
 - [内核实现比赛课程](https://github.com/LearningOS/oscomp-kernel-training)
 
-## 矽望社区文档
+## 矽望社区技术博客
 
-文档主仓库在 [https://github.com/syswonder/report](https://github.com/syswonder/report)，提交报告的方法和[提交代码的方法](contrib.md)一致。
+技术博客文档主仓库在 [https://github.com/syswonder/blog](https://github.com/syswonder/blog)，提交报告的方法和[提交代码的方法](contrib.md)一致。
 
-文档可以在线查看，可以访问 [https://report.syswonder.org](https://report.syswonder.org), 或者 [https://syswonder.github.io/report](https://syswonder.github.io/report)
+博客文档可以在线查看，可以访问 [https://blog.syswonder.org](https://blog.syswonder.org), 或者 [https://syswonder.github.io/blog](https://syswonder.github.io/blog)
 
 
 ## 矽望开源社区委员会
