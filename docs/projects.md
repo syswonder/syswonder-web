@@ -12,18 +12,19 @@ Rust实现的Type-1虚拟机监视器（Hypervisor），采用基于基础构件
 
 |姓名|github id|单位|
 |----|---------|----|
-|贾跃凯|[@equation314](https://github.com/equation314)|清华大学(博士生)|
+|贾越凯|[@equation314](https://github.com/equation314)|清华大学(博士生)|
 |丁韶峰|[@KarmaD7](https://github.com/KarmaD7)|清华大学(本科生)|
 |李柯越|[@likey99](https://github.com/likey99)|中科院计算所(硕士生)|
 |汪文韬|[@Miaowulue](https://github.com/Miaowulue)|北京大学(硕士生)|
-|陈林锟|[@Enquisitor-201](https://github.com/Inquisitor-201)|北京大学(硕士生)|
+|陈林锟|[@Enquisitor-201](https://github.com/Inquisitor-201)|哈尔滨工业大学（深圳）（本科生）, 北京大学(硕士生)|
 |杨竣轶|[@comet959](https://github.com/comet959)|中科院计算所(硕士生)|
 |陈星宇|[@dallasxy](https://github.com/dallasxy)|中科院计算所(硕士生)|
 |李国玮|[@kouweilee](https://github.com/kouweilee)|北京航空航天大学(本科生), 北京大学(硕士生)|
 |韩喻泷|[@enkerewpo](https://github.com/enkerewpo)|西北工业大学(本科生), 北京大学(博士生)|
+|沈铭|[@BoneInscri](https://github.com/BoneInscri)|杭州电子科技大学(本科生), 西北工业大学(硕士生)|
 |李韶航|[@sanchezdorso](https://github.com/sanchezdorso)|武汉大学(本科生), 中科院计算所(硕士生)|
 |刘景宇|[@liulog](https://github.com/liulog)|华中科技大学(本科生),  中科院计算所(硕士生)|
-|徐仲锴|[@ZhongkaiXu](https://github.com/ZhongkaiXu)|中国矿业大学（北京）(本科生)|
+|徐仲锴|[@ZhongkaiXu](https://github.com/ZhongkaiXu)|中国矿业大学(北京)(本科生)|
 
 
 ## 如意ruxos
@@ -40,7 +41,7 @@ Rust实现的Type-1虚拟机监视器（Hypervisor），采用基于基础构件
 
 |姓名|github id|单位|
 |----|---------|----|
-|贾跃凯|[@equation314](https://github.com/equation314)|清华大学(博士生)|
+|贾越凯|[@equation314](https://github.com/equation314)|清华大学(博士生)|
 |晏巨广|[@coolyjg](https://github.com/coolyjg)|清华大学(硕士生)|
 |汪乐平|[@JOHNKRAM](https://github.com/JOHNKRAM)|清华大学(硕士生)|
 |袁世平|[@MrRobertYuan](https://github.com/MrRobertYuan)|北京大学(硕士生)|
