@@ -2,15 +2,18 @@
 
 # syswonder 矽望泛在操作系统社区
 
-> 针对实时非实时任务混合运行的边缘计算场景
+> 针对需要在近场进行实时感知和态势认知的现场计算场景
 
-> 面向非对称多处理器SoC（MCU, CPU, DSP等）硬件平台
+> 面向非对称多处理器SoC（MCU, CPU, GPU, FPGA等）硬件平台
 
-> 用内存安全的Rust语言构建安全、高效、专用的新型态泛在操作系统
+> 用Rust语言实现安全、智能、专用的新型操作系统，让设备拥有智脑
 
+[<i class="fa-solid fa-bullhorn"></i> 图灵大会论坛预告](https://mp.weixin.qq.com/s/Q-Ftsj8nqVLW4fNnY01dPg)
 [<i class="fa-brands fa-github"></i> GitHub](https://github.com/syswonder)
-[<i class="fa-solid fa-book"></i> 技术博客](https://blog.syswonder.org)
 [了解更多 <i class="fa-solid fa-angles-down"></i>](#main)
 
+<!--
+[<i class="fa-solid fa-book"></i> 技术博客](https://blog.syswonder.org)
+-->
 <!-- background image -->
 ![](_media/bg-bluesea.jpg)
