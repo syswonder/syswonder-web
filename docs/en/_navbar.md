@@ -6,6 +6,6 @@
   - [RuxOS BooK](https://ruxos.syswonder.org)
   - [Hvisor Book](https://hvisor.syswonder.org)
   - [Ruxgo Manual](https://ruxgo.syswonder.org)
-  - [Technical Report](https://report.syswonder.org)
+  - [Technical Blog](https://blog.syswonder.org)
 - [Contact](/en/contact.md)
 - [:cn: 中文](/)

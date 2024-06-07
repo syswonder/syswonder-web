@@ -1,15 +1,15 @@
 ![](../_media/logo.svg ':size=120x120')
 
-# SYSWONDER Ubiquitous Operating System Community
+# syswonder Ubiquitous Operating System Community
 
-> For edge computing scenaros with mixed real-time and non-real-time jobs
+> For in-situ computing applications with situation awareness capability 
 
-> On asymmetric multile processors SoC(MCU, CPU, DSP, etc) hardware
+> On asymmetric multile processors SoC(MCU, CPU, NPU, FPGA etc) hardware
 
-> Building safe and efficent new ubiquitous OS in memory-safe Rust language
+> Building safe, intelligent and scenario-specific new operating system in Rust language
 
 [<i class="fa-brands fa-github"></i> GitHub](https://github.com/syswonder)
-[<i class="fa-solid fa-book"></i> TechReports](https://report.syswonder.org)
+[<i class="fa-solid fa-book"></i> TechBlog](https://blog.syswonder.org)
 [Readme <i class="fa-solid fa-angles-down"></i>](#main)
 
 ![](../_media/bg-bluesea.jpg)
