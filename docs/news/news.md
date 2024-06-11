@@ -34,6 +34,14 @@
 
 内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/YVJU4SYPXYJCWCRL5XOTZXGOQKS2YEG3/)
 
+<i class="fa-solid fa-user-group"></i> **20240605 Hypervisor讨论会**
+
+时间：2024年6月5日
+
+地点：开芯院 后院芯礼堂
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/2HSU5IIBGT73YGC3OA7BUDKQUOECHNGY/)
+
 <i class="fa-solid fa-user-group"></i> **20240530 Unikernel讨论会**
 
 时间：2024年5月30日
