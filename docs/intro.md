@@ -63,7 +63,7 @@ Linux面向高吞吐量目标的设计，使其不适合运行实时（real-time
 
 -  一个轻量化的Type 1 hypervisor [hvisor](https://github.com/syswonder/hvisor)，主要遵循[separation kernel](https://en.wikipedia.org/wiki/Separation_kernel)思想，是**little.BIG**二元内核架构中的**little**内核。hvisor 的主要功能是管理系统的物理资源，将资源组织到各个分区（zone）中，通过严格的分区确保各个分区在时间和空间上的严格隔离，从而支持各个分区的系统独立运行且互不干扰。分区里部署运行的系统称为应用体（appliance），常以轻量虚拟机方式运行。常见的应用体包括标准 Linux OS、Unikernel OS、Android OS、实时 RTOS 甚至裸机应用。通过 Type 1 hypervisor 的分区隔离，实时 RTOS 和非实时的 Linux 或 Android 虚拟机可以正常运行，满足各自的应用需求。separation kernel 常见于面向高可靠高安全（safety）应用的操作系统，如[PikeOS](https://www.sysgo.com/fileadmin/user_upload/data/professional_article_download/SYSGO_PA_2019-03_Separation_Kernel_as_a_basis_for_certifiable_applications_and_systems.pdf)。在目前的设计中，zone0 也称为根 zone（root zone），负责系统管理任务。zoneU 一般承担高算力计算任务，应用体可以是 Unikernel OS 或 Linux OS；zoneR 承担实时计算任务，应用体一般是面向 MCU 的 RTOS。 
 
--  一个兼容Linux应用的轻量化一体操作系统[RuxOS](https://github.com/syswonder/ruxos)，主要遵循[unikernel](https://en.wikipedia.org/wiki/Unikernel)设计思想，是**little.BIG**二元内核架构中的**BIG**内核。考虑到边缘泛在计算场景下，应用通常数量有限且相对固定，因此 RuxOS 将操作系统简化设计为只支持单应用，将内核功能封装为库，以系统调用的形式提供给应用，应用直接运行在内核态。这种库型态操作系统的应用性能将有极大提升，安全问题（security）主要由底层的 Type 1 hypervisor（hvisor）来解决。 
+-  一个兼容Linux应用的轻量化一体操作系统[RuxOS](https://github.com/syswonder/ruxos)，主要遵循[unikernel](https://en.wikipedia.org/wiki/Unikernel)设计思想，是**little.BIG**二元内核架构中的**BIG**内核。考虑到边缘泛在计算场景下，应用通常数量有限且相对固定，因此 RuxOS 将操作系统简化设计为只支持单应用，将内核功能封装为库，以函数调用的形式提供给应用，应用直接运行在内核态。这种库型态操作系统的应用性能将有极大提升，安全问题（security）主要由底层的 Type 1 hypervisor（hvisor）来解决。 
 -  一组用 Rust 语言实现的操作系统基础构件（component），如文件系统、网络协议栈、内存管理器、消息通信机制等。基于这些构件可实现特定的库操作系统。 
 
 底层硬件方面，将面向异构多处理器 SoC（MCU、CPU、FPGA、GPU、NPU、TPU及DSP等ASIC）新型硬件平台。前期将基于 QEMU，之后将基于物理开发板进行。
