@@ -26,6 +26,22 @@
 * 16:40 – 17:00	Hvisor的龙架处理器适配与应用，张羽，西北工业大学教授
 * 17:00 – 17:10	矽望社区操作系统研究计划，陈康，清华大学研究员
 
+<i class="fa-solid fa-user-group"></i> **20240627 Unikernel讨论会**
+
+时间：2024年6月27日
+
+地点：北京大学 理科一号楼1621会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/DDJYDQWRUMG3XIJL3BDGDIA72BWZQREB/)
+
+<i class="fa-solid fa-user-group"></i> **20240620 Unikernel讨论会**
+
+时间：2024年6月20日
+
+地点：北京大学 理科一号楼1621会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/PJ5SZGX5OZJWFWOYM5M6EOW73GEGZ3QG/)
+
 <i class="fa-solid fa-user-group"></i> **20240619 Hypervisor讨论会**
 
 时间：2024年6月19日
