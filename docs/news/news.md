@@ -2,6 +2,14 @@
 
 ---
 
+<i class="fa-solid fa-user-group"></i> **20240710 Unikernel讨论会**
+
+时间：2024年7月10日
+
+地点：北京大学 理科一号楼1621会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/MNHUYXC6GJ3BJL5OCRFS6MCLYZUGZKCA/)
+
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
 <i class="fa-solid fa-bullhorn"></i> **ACM中国图灵大会2024论坛**
@@ -25,6 +33,14 @@
 * 16:20 – 16:40	矽望社区轻量虚拟机监控器海狸Hvisor，李栋，中科院计算所正高级工程师
 * 16:40 – 17:00	Hvisor的龙架处理器适配与应用，张羽，西北工业大学教授
 * 17:00 – 17:10	矽望社区操作系统研究计划，陈康，清华大学研究员
+
+<i class="fa-solid fa-user-group"></i> **20240704 Unikernel讨论会**
+
+时间：2024年7月4日
+
+地点：北京大学 理科一号楼1621会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/PNOW5DXITSKSQJ2ANEFLGMGT3KMZNFRU/)
 
 <i class="fa-solid fa-user-group"></i> **20240703 Hypervisor讨论会**
 
