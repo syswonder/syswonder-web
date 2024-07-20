@@ -2,15 +2,32 @@
 
 ---
 
+
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
-<i class="fa-solid fa-user-group"></i> **20240710 Unikernel讨论会**
+<i class="fa-solid fa-user-group"></i> **20240717 Hypervisor讨论会**
 
-时间：2024年7月10日
+时间：2024年7月17日
+
+地点：开芯院 雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/EKPMJDAX76I7JCGTL35GPRW3TBEQJUUW/)
+
+<i class="fa-solid fa-user-group"></i> **20240711 Unikernel讨论会**
+
+时间：2024年7月11日
 
 地点：北京大学 理科一号楼1621会议室
 
 内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/MNHUYXC6GJ3BJL5OCRFS6MCLYZUGZKCA/)
+
+<i class="fa-solid fa-user-group"></i> **20240710 Hypervisor讨论会**
+
+时间：2024年7月10日
+
+地点：开芯院 雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/WQA5IDMZHXMZSXOZYMI4JFHTKIML7DLD/)
 
 <i class="fa-solid fa-bullhorn"></i> **ACM中国图灵大会2024论坛**
 
