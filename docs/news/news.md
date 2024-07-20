@@ -2,6 +2,8 @@
 
 ---
 
+## <i class="fa-regular fa-calendar-check"></i> 社区活动
+
 <i class="fa-solid fa-user-group"></i> **20240710 Unikernel讨论会**
 
 时间：2024年7月10日
@@ -9,8 +11,6 @@
 地点：北京大学 理科一号楼1621会议室
 
 内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/MNHUYXC6GJ3BJL5OCRFS6MCLYZUGZKCA/)
-
-## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
 <i class="fa-solid fa-bullhorn"></i> **ACM中国图灵大会2024论坛**
 
