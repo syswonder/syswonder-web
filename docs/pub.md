@@ -2,7 +2,33 @@
 
 ## 报告
 
-1. [**RuxOS技术分享**](/download/RuxOS-20240526.pdf ':ignore'), 陈康, 在2024全国大学生计算机系统能力大赛操作系统设计赛技术培训会的报告, 2024年5月26日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/RuxOS-20240526.pdf ':ignore')
+<i class="fa-solid fa-bullhorn"></i> **ACM中国图灵大会2024 泛在智能操作系统论坛** 
+ 
+时间：2024年7月6日 
+ 
+地点：长沙北辰国际会议中心 
+ 
+内容：[泛在智能操作系统论坛暨矽望泛在操作系统社区项目发布会](https://mp.weixin.qq.com/s/Q-Ftsj8nqVLW4fNnY01dPg) 
+ 
+**泛在智能操作系统论坛 主持人：曹东刚** 
+ 
+* 14:00 - 14:10 开幕式，曹东刚，北京大学研究员，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-openning-cdg.pdf ':ignore')  
+* 14:10 - 14:40 基于Rust语言开发操作系统内核的思考，陈渝，清华大学长聘副教授，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-rustos-1-cy.pdf ':ignore')
+* 14:40 - 15:10 操作系统形式化验证技术、工具和应用，赵永望，浙江大学教授 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-proofos-2-zyw.pdf ':ignore')
+* 15:10 – 15:40 面向LLM推理服务的体系结构，李诚，中国科技大学副教授 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-llmarch-3-lc.pdf ':ignore')
+ 
+
+**矽望社区项目发布 主持人：陈渝** 
+
+ 
+* 16:00 – 16:20 矽望社区一体操作系统如意RuxOS，陈康，清华大学研究员 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-ruxos-4-ck.pdf ':ignore')
+* 16:20 – 16:40 矽望社区轻量虚拟机监控器海狸Hvisor，李栋，中科院计算所正高级工程师 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-hvisor-5-ld.pdf ':ignore')
+* 16:40 – 17:00 Hvisor的龙架处理器适配与应用，张羽，西北工业大学教授 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-hvisorloongarch-6-zy.pdf ':ignore')
+* 17:00 – 17:10 矽望社区操作系统研究计划，陈康，清华大学研究员 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-syswonderplan-7-ck.pdf ':ignore')
+
+
+<i class="fa-solid fa-bullhorn"></i> **2024全国大学生计算机系统能力大赛操作系统设计赛技术培训会** 
+* RuxOS技术分享, 陈康, 2024年5月26日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/RuxOS-20240526.pdf ':ignore')
 
 ## 硕士论文
 

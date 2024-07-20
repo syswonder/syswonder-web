@@ -2,6 +2,9 @@
 
 ---
 
+
+## <i class="fa-regular fa-calendar-check"></i> 社区活动
+
 <i class="fa-solid fa-user-group"></i> **20240717 Hypervisor讨论会**
 
 时间：2024年7月17日
@@ -25,8 +28,6 @@
 地点：开芯院 雁栖湖会议室
 
 内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/WQA5IDMZHXMZSXOZYMI4JFHTKIML7DLD/)
-
-## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
 <i class="fa-solid fa-bullhorn"></i> **ACM中国图灵大会2024论坛**
 
