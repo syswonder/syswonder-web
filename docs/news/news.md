@@ -5,6 +5,14 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20240718 Unikernel讨论会**
+
+时间：2024年7月18日
+
+地点：北京大学 理科一号楼1621会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/W6PVUE74TQSVA3XIWZILZJWS6DWLO2XK/)
+
 <i class="fa-solid fa-user-group"></i> **20240717 Hypervisor讨论会**
 
 时间：2024年7月17日
