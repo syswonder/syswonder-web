@@ -2,8 +2,23 @@
 
 ---
 
-
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
+
+<i class="fa-solid fa-user-group"></i> **20240731 Hypervisor讨论会**
+
+时间：2024年7月31日
+
+地点：开芯院 雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/QA6B22MK4T6T4TLNC4U5AFYB3KGHCO6X/)
+
+<i class="fa-solid fa-user-group"></i> **20240724 Hypervisor讨论会**
+
+时间：2024年7月24日
+
+地点：开芯院 雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/M3NASINY5WXHPKCPNGLNF3CP4HUOLPLX/)
 
 <i class="fa-solid fa-user-group"></i> **20240718 Unikernel讨论会**
 
