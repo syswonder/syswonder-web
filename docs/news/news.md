@@ -4,6 +4,30 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20240919 Hypervisor&Unikernel讨论会**
+
+时间：2024年9月19日
+
+地点：开芯院 雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/UYU5AY2S46U4B5DNLOH4B4MHUIB32BFP/)
+
+<i class="fa-solid fa-user-group"></i> **20240912 Hypervisor讨论会**
+
+时间：2024年9月12日
+
+地点：开芯院 雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/3U2K33ZZBE6NBG644V7ZCNUNCIUWF6L2/)
+
+<i class="fa-solid fa-user-group"></i> **20240904 Hypervisor讨论会**
+
+时间：2024年9月4日
+
+地点：开芯院 雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/32G3XJ7GNNVQROB6TZCCIYOFG5AAHFN6/)
+
 <i class="fa-solid fa-user-group"></i> **20240828 Hypervisor讨论会**
 
 时间：2024年8月28日
