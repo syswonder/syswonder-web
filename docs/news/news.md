@@ -4,6 +4,46 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **20241219 Hypervisor&Unikernel讨论会**
+
+时间：2024年12月19日
+
+地点：开芯院 雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/ZSC52KA7WOFDNVGYARW44ZR4XVWJFXMI/)
+
+<i class="fa-solid fa-user-group"></i> **20241212 Hypervisor&Unikernel讨论会**
+
+时间：2024年12月12日
+
+地点：开芯院 雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/KBSTZ6S3FU254KQPHUI5WSLF3JDRBJUR/)
+
+<i class="fa-solid fa-user-group"></i> **20241205 Hypervisor&Unikernel讨论会**
+
+时间：2024年12月5日
+
+地点：开芯院 雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/unikernel@syswonder.org/thread/QONUBFYRAYADN7VPRSRLFS6ALYBMUFJX/)
+
+<i class="fa-solid fa-user-group"></i> **20241128 Hypervisor&Unikernel讨论会**
+
+时间：2024年11月28日
+
+地点：开芯院 雁栖湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/FO75PB3ZRBTTRZGOJ2RXW43NCNMKLP64/)
+
+<i class="fa-solid fa-user-group"></i> **20241121 Hypervisor&Unikernel讨论会**
+
+时间：2024年11月21日
+
+地点：开芯院 太湖会议室
+
+内容：[这里](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/thread/A6G2TXDPLALX4N5UGCE333QFPXWHAF76/)
+
 <i class="fa-solid fa-user-group"></i> **20241114 Hypervisor&Unikernel讨论会**
 
 时间：2024年11月14日
