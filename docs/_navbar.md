@@ -1,7 +1,5 @@
 - [首页](/)
 - [动态](/news/)
-  - [2024](/news/news.md)
-  - [2023](/news/2023.md)
 - [项目](/projects.md)
 - [课程](/courses.md)
 - 文档

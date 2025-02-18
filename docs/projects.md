@@ -25,6 +25,7 @@ hvisor的管理功能交由其根zone（zone0）承担，由一组Linux管理工
 |侯云龙|[@ohhhHwH](https://github.com/ohhhHwH)|北京大学(硕士生)|
 |廖航|[@CarryLiao5959](https://github.com/CarryLiao5959)|北京大学(硕士生)|
 |程宏豪|[@CHonghaohao](https://github.com/CHonghaohao)|郑州大学(硕士生)|
+|包子旭|[@Baozixu99](https://github.com/Baozixu99)|河南理工大学（本科生）, 西北工业大学(硕士生)|
 |陈林锟|[@Enquisitor-201](https://github.com/Inquisitor-201)|哈尔滨工业大学（深圳）（本科生）, 北京大学(硕士生)|
 |杨竣轶|[@comet959](https://github.com/comet959)|中科院计算所(硕士生)|
 |陈星宇|[@dallasxy](https://github.com/dallasxy)|中科院计算所(硕士生)|

@@ -4,20 +4,11 @@
 
 ## <i class="fa-solid fa-chalkboard-user"></i> 开源操作系统训练营
 
- <i class="fas fa-spinner fa-pulse"></i> **当前课程: 2023春夏季开源OS训练营第三阶段 ArceOS**
-
-时间：2023年5月8日-5月26日
-
-详情与报名：[https://os2edu.cn/course/109](https://os2edu.cn/course/109)
-
 **<i class="fa-solid fa-book-open-reader"></i>训练营资源**
 
 [https://github.com/learningOS](https://github.com/learningOS)
 
 !> 希望参与矽望社区项目的开发但之前没有相关开发经验的朋友，建议参加开源操作系统训练营，或自学[以往的训练营资料](https://github.com/learningOS)。
-
-邮件列表：[rustos-tutorial@syswonder.org](https://maillist.syswonder.org/mailman3/lists/rustos-tutorial.syswonder.org/)
-
 
 ## Rust实现OS课程
 
