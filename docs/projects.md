@@ -20,7 +20,7 @@ hvisor的管理功能交由其根zone（zone0）承担，由一组Linux管理工
 |----|---------|----|
 |任航麒|[@ForeverYolo](https://github.com/ForeverYolo)|北京航空航天大学(本科生), 北京大学(硕士生)|
 |李坤嵘|[@Misaka19986](https://github.com/Misaka19986)|电子科技大学(本科生)|
-|刘竞暄|[@PKTH-Jx](https://github.com/PKTH-Jx)|清华大学(本科生), 北京大学(硕士生)|
+|刘竞暄|[@PKTH-Jx](https://github.com/PKTH-Jx)|清华大学(本科生), 北京大学(博士生)|
 |刘天弘|[@Solicey](https://github.com/Solicey)|北京大学(本科生, 硕士生)|
 |侯云龙|[@ohhhHwH](https://github.com/ohhhHwH)|北京大学(硕士生)|
 |廖航|[@CarryLiao5959](https://github.com/CarryLiao5959)|北京大学(硕士生)|
