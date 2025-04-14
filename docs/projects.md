@@ -39,6 +39,7 @@ hvisor的管理功能交由其根zone（zone0）承担，由一组Linux管理工
 |丁韶峰|[@KarmaD7](https://github.com/KarmaD7)|清华大学(本科生)|
 |李柯越|[@likey99](https://github.com/likey99)|中科院计算所(硕士生)|
 |汪文韬|[@Miaowulue](https://github.com/Miaowulue)|北京大学(硕士生)|
+|龚天遥|[@FlowerBlackG](https://github.com/FlowerBlackG)|同济大学(本科生), 上海交通大学(硕士生)|
 
 
 ## 如意ruxos
