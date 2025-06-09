@@ -32,6 +32,10 @@
 
 ## 硕士论文
 
+1. **虚拟机监控器hvisor镜像定制工具的设计与实现**, 廖航, 北京大学硕士论文, 2025
+
+1. **一体操作系统RuxOS中FUSE文件系统支持机制的设计与实现**, 郑元昊, 北京大学硕士论文, 2025
+
 1. **RISC-V原生嵌入式实时Hypervisor的设计与优化**, 李柯樾, 中科院计算所硕士论文, 2024
 
 1. **基于多队列网卡的高并发轻量级网络协议栈的设计与实现**, 汪乐平, 清华大学硕士论文, 2024
@@ -44,20 +48,28 @@
 
 ## 本科毕设
 
-1. **面向龙芯LoongArch指令集架构的轻量化Hypervisor设计与实现**, 韩喻泷,西北工业大学本科毕设, 2024
+1. **面向异构体系结构MPSoC的虚拟机监控器hvisor移植与优化**, 任航麒, 北京航空航天大学本科毕设, 2025
 
-1. **单内核操作系统的并发优化方法研究**, 周智, 清华大学本科毕设, 2024
+2. **Formal Verification of VM Memory Isolation in Type-I Hypervisor**, 刘竞暄, 清华大学本科毕设, 2025
 
-1. **一种基于Unikernel的WASM应用部署方案设计与实现**, 徐金阳, 北京理工大学本科毕设, 2024, [<i class="fa-brands fa-github"></i> 系统源码](https://github.com/syswonder/rux-wamr)
+3. **轻量裸机型虚拟机监控器Hvisor的x86架构移植**, 刘天弘, 北京大学本科毕设, 2025
 
-1. **RISC-V虚拟化系统中IOMMU功能的设计与实现**, 刘景宇, 华中科技大学本科毕设, 2024
+4. **基于Type-1虚拟机监控器的PCIe资源虚拟化机制设计与实现**, 徐仲锴, 中国矿业大学（北京）本科毕设, 2025
 
-1. **面向RISC-V的中断控制器实现**, 李韶航, 武汉大学本科毕设, 2024
+5. **面向龙芯LoongArch指令集架构的轻量化Hypervisor设计与实现**, 韩喻泷,西北工业大学本科毕设, 2024
 
-1. **一种虚拟机监控器中VirtIO后端机制设计与实现**, 李国玮, 北京航空航天大学本科毕设, 2024
+6. **单内核操作系统的并发优化方法研究**, 周智, 清华大学本科毕设, 2024
 
-1. **在一体操作系统RuxOS中移植与优化Nginx**, 刘昊文, 北京大学本科毕设, 2024, [<i class="fa-brands fa-github"></i> 系统源码](https://github.com/syswonder/rux-nginx)
+7. **一种基于Unikernel的WASM应用部署方案设计与实现**, 徐金阳, 北京理工大学本科毕设, 2024, [<i class="fa-brands fa-github"></i> 系统源码](https://github.com/syswonder/rux-wamr)
 
-1. **基于ARMv8的虚拟机监控器的设计与实现**, 丁韶峰, 清华大学本科毕设, 2023, [<i class="fa-brands fa-github"></i> 原型源码](https://github.com/syswonder/sysHyper-t1)
+8. **RISC-V虚拟化系统中IOMMU功能的设计与实现**, 刘景宇, 华中科技大学本科毕设, 2024
 
-1. **一种Rust语言实现的Type-1型轻量级嵌入式Hypervisor**, 陈林锟, 哈尔滨工业大学（深圳）本科毕设, 2023, [<i class="fa-brands fa-github"></i> 原型源码](https://github.com/syswonder/rustbao)
+9. **面向RISC-V的中断控制器实现**, 李韶航, 武汉大学本科毕设, 2024
+
+10. **一种虚拟机监控器中VirtIO后端机制设计与实现**, 李国玮, 北京航空航天大学本科毕设, 2024
+
+11. **在一体操作系统RuxOS中移植与优化Nginx**, 刘昊文, 北京大学本科毕设, 2024, [<i class="fa-brands fa-github"></i> 系统源码](https://github.com/syswonder/rux-nginx)
+
+12. **基于ARMv8的虚拟机监控器的设计与实现**, 丁韶峰, 清华大学本科毕设, 2023, [<i class="fa-brands fa-github"></i> 原型源码](https://github.com/syswonder/sysHyper-t1)
+
+13. **一种Rust语言实现的Type-1型轻量级嵌入式Hypervisor**, 陈林锟, 哈尔滨工业大学（深圳）本科毕设, 2023, [<i class="fa-brands fa-github"></i> 原型源码](https://github.com/syswonder/rustbao)
