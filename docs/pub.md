@@ -3,7 +3,7 @@
 ## 报告
 
 <i class="fa-solid fa-bullhorn"></i> **2025 CCF 中国开源大会泛在操作系统分论坛** 
-* 矽望社区面向现场计算的泛在操作系统探索, 陈康, 2025年8月2日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/syswonder-20250820-Final.pdf ':ignore')
+* 矽望社区面向现场计算的泛在操作系统探索, 陈康, 2025年8月2日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/syswonder-20250802-Final.pdf ':ignore')
 
 
 2025 CCF 中国开源大会泛在操作系统分论坛[详细介绍](https://mp.weixin.qq.com/s/_7qttpozTmCMJM3431NaTA)。
