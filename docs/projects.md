@@ -88,7 +88,7 @@ hvisor的管理功能交由其根zone（zone0）承担，由一组Linux管理工
 
 ***犀照世界 灵通万物 为机器筑心 为具身立构***
 
----
+<img src="_media/robonix-logo.svg" width=400>
 
 犀灵通 robonix 是一款为具身智能设计的新型操作系统。
 
