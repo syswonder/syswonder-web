@@ -57,7 +57,7 @@ Linux面向高吞吐量目标的设计，使其不适合运行实时（real-time
 
 通过 **little** 和 **BIG** 两个内核的协同工作，**little.BIG架构**能够在满足异构多处理器系统隔离性和高实时需求的同时，提供高性能和灵活的应用支持，并可以对已有Linux和RTOS生态很好兼容。
 
-![](_media/overview.svg)
+![](_media/hvisor-overview.svg)
 
 ### 当前项目
 
