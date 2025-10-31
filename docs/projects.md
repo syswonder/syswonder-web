@@ -4,9 +4,8 @@
 
 ![](_media/hvisor-logo.svg)
 
-海狸hvisor是一款Rust实现的Type-1虚拟机监视器（Hypervisor），采用基于separation kernel的设计思想，主要提供最基础的硬件资源虚拟化、资源分区并安全隔离的机制，将硬件资源组织到各个分区（zone0, zoneU, zoneR）中，各个分区在时间和空间上严格隔离，各个分区的系统独立互不干扰运行。分区里部署运行的系统称为应用体appliance，常以轻量虚拟机方式运行。zone0是hvisor专用分区，承担系统管理任务。zoneU一般承担高算力计算任务，应用体可以是unikernel OS，或者Linux OS；承担实时计算任务的zoneR，应用体一般是面向MCU的RTOS甚至裸机应用。通过Type 1 hypervisor的分区隔离，实时RTOS和非实时的Linux或Android虚拟机可以正常运行，满足各自的应用需求。
 
-hvisor的管理功能交由其根zone（zone0）承担，由一组Linux管理工具[hvisor-tool](https://github.com/syswonder/hvisor-tool)实现。
+hvisor是矽望社区用Rust语言开发的一款轻量Type-1 hypervisor，通过高效虚拟化技术解决现场计算场景不同任务的安全可靠隔离运行问题。hvisor采用little.BIG二元内核架构设计，功能极简，虚拟机性能接近裸机；核心模块进行形式化验证，安全性高；是开源领域首个同时支持ARM aarch64、RISC-V64、LoongArch64和X86\_64四种体系架构的Rust实现的裸机型虚拟机监控器，已适配RK3588、龙芯3A6000等多款异构SoC硬件，支持Linux、Zephyr、RT-Thread等操作系统，适用性强，是[CCF泛在操作系统开放社区](https://ubios.ccf.org.cn)首批支持孵化项目。
 
 <i class="fa-brands fa-github"></i> 项目地址: [https://github.com/syswonder/hvisor](https://github.com/syswonder/hvisor) 
 
