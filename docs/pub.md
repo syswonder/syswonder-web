@@ -2,6 +2,10 @@
 
 ## 报告
 
+<i class="fa-solid fa-bullhorn"></i> **2025 Rust OSDev Meetup ：共探操作系统开发的未来之路** 
+* hvisor 虚拟机监控器的设备直通与虚拟化, 任航麒，陈林锟, 2025年12月14日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20251214-hvisor-device.pdf ':ignore')
+
+
 <i class="fa-solid fa-bullhorn"></i> **2025 CCF 中国开源大会泛在操作系统分论坛** 
 * 矽望社区面向现场计算的泛在操作系统探索, 陈康, 2025年8月2日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/syswonder-20250802-Final.pdf ':ignore')
 
