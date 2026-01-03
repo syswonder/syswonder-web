@@ -1,6 +1,18 @@
 # 论文报告
 
+## 白皮书
+
+<i class="fa-regular fa-book"></i> 具身智能操作系统技术白皮书 v0.1 草案, 
+发布日期：2025年12月29日，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/Syswonder_EAIOS_whitepaper-v0.1.pdf':ignore')
+
+
 ## 报告
+
+<i class="fa-solid fa-bullhorn"></i> **2025年全国大学生计算机系统能力大赛操作系统设计赛区域赛技术培训（第8场）** 
+* 具身智能与基于hvisor的泛在操作系统新型内核架构, 陈康, 2025年12月20日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/syswonder-20251220-hvisor.pdf':ignore')
+
+2025年全国大学生计算机系统能力大赛操作系统设计赛区域赛技术培训（第8场）
+[详细信息](https://mp.weixin.qq.com/s/1km4CPacSw-VCTSyi17drA)
 
 <i class="fa-solid fa-bullhorn"></i> **2025 Rust OSDev Meetup ：共探操作系统开发的未来之路** 
 * hvisor 虚拟机监控器的设备直通与虚拟化, 任航麒，陈林锟, 2025年12月14日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20251214-hvisor-device.pdf ':ignore')
