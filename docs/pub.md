@@ -3,23 +3,23 @@
 ## 白皮书
 
 <i class="fa-regular fa-book"></i> 具身智能操作系统技术白皮书 v0.1 草案, 
-发布日期：2025年12月29日，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/Syswonder_EAIOS_whitepaper-v0.1.pdf ':ignore')
+发布日期：2025年12月29日，[<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/Syswonder_EAIOS_whitepaper-v0.1.pdf ':ignore')
 
 
 ## 报告
 
 <i class="fa-solid fa-bullhorn"></i> **2025年全国大学生计算机系统能力大赛操作系统设计赛区域赛技术培训（第8场）** 
-* 具身智能与基于hvisor的泛在操作系统新型内核架构, 陈康, 2025年12月20日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/syswonder-20251220-hvisor.pdf ':ignore')
+* 具身智能与基于hvisor的泛在操作系统新型内核架构, 陈康, 2025年12月20日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/syswonder-20251220-hvisor.pdf ':ignore')
 
 2025年全国大学生计算机系统能力大赛操作系统设计赛区域赛技术培训（第8场）
 [详细信息](https://mp.weixin.qq.com/s/1km4CPacSw-VCTSyi17drA)
 
 <i class="fa-solid fa-bullhorn"></i> **2025 Rust OSDev Meetup ：共探操作系统开发的未来之路** 
-* hvisor 虚拟机监控器的设备直通与虚拟化, 任航麒，陈林锟, 2025年12月14日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20251214-hvisor-device.pdf ':ignore')
+* hvisor 虚拟机监控器的设备直通与虚拟化, 任航麒，陈林锟, 2025年12月14日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/20251214-hvisor-device.pdf ':ignore')
 
 
 <i class="fa-solid fa-bullhorn"></i> **2025 CCF 中国开源大会泛在操作系统分论坛** 
-* 矽望社区面向现场计算的泛在操作系统探索, 陈康, 2025年8月2日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/syswonder-20250802-Final.pdf ':ignore')
+* 矽望社区面向现场计算的泛在操作系统探索, 陈康, 2025年8月2日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/syswonder-20250802-Final.pdf ':ignore')
 
 
 2025 CCF 中国开源大会泛在操作系统分论坛[详细介绍](https://mp.weixin.qq.com/s/_7qttpozTmCMJM3431NaTA)。
@@ -35,23 +35,23 @@
  
 **泛在智能操作系统论坛 主持人：曹东刚** 
  
-* 14:00 - 14:10 开幕式，曹东刚，北京大学研究员，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-openning-cdg.pdf ':ignore')  
-* 14:10 - 14:40 基于Rust语言开发操作系统内核的思考，陈渝，清华大学长聘副教授，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-rustos-1-cy.pdf ':ignore')
-* 14:40 - 15:10 操作系统形式化验证技术、工具和应用，赵永望，浙江大学教授 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-proofos-2-zyw.pdf ':ignore')
-* 15:10 – 15:40 面向LLM推理服务的体系结构，李诚，中国科技大学副教授 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-llmarch-3-lc.pdf ':ignore')
+* 14:00 - 14:10 开幕式，曹东刚，北京大学研究员，[<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/20240706-openning-cdg.pdf ':ignore')  
+* 14:10 - 14:40 基于Rust语言开发操作系统内核的思考，陈渝，清华大学长聘副教授，[<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/20240706-rustos-1-cy.pdf ':ignore')
+* 14:40 - 15:10 操作系统形式化验证技术、工具和应用，赵永望，浙江大学教授 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/20240706-proofos-2-zyw.pdf ':ignore')
+* 15:10 – 15:40 面向LLM推理服务的体系结构，李诚，中国科技大学副教授 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/20240706-llmarch-3-lc.pdf ':ignore')
  
 
 **矽望社区项目发布 主持人：陈渝** 
 
  
-* 16:00 – 16:20 矽望社区一体操作系统如意RuxOS，陈康，清华大学研究员 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-ruxos-4-ck.pdf ':ignore')
-* 16:20 – 16:40 矽望社区轻量虚拟机监控器海狸Hvisor，李栋，中科院计算所正高级工程师 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-hvisor-5-ld.pdf ':ignore')
-* 16:40 – 17:00 Hvisor的龙架处理器适配与应用，张羽，西北工业大学教授 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-hvisorloongarch-6-zy.pdf ':ignore')
-* 17:00 – 17:10 矽望社区操作系统研究计划，陈康，清华大学研究员 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/20240706-syswonderplan-7-ck.pdf ':ignore')
+* 16:00 – 16:20 矽望社区一体操作系统如意RuxOS，陈康，清华大学研究员 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/20240706-ruxos-4-ck.pdf ':ignore')
+* 16:20 – 16:40 矽望社区轻量虚拟机监控器海狸Hvisor，李栋，中科院计算所正高级工程师 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/20240706-hvisor-5-ld.pdf ':ignore')
+* 16:40 – 17:00 Hvisor的龙架处理器适配与应用，张羽，西北工业大学教授 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/20240706-hvisorloongarch-6-zy.pdf ':ignore')
+* 17:00 – 17:10 矽望社区操作系统研究计划，陈康，清华大学研究员 ，[<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/20240706-syswonderplan-7-ck.pdf ':ignore')
 
 
 <i class="fa-solid fa-bullhorn"></i> **2024全国大学生计算机系统能力大赛操作系统设计赛技术培训会** 
-* RuxOS技术分享, 陈康, 2024年5月26日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/RuxOS-20240526.pdf ':ignore')
+* RuxOS技术分享, 陈康, 2024年5月26日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/RuxOS-20240526.pdf ':ignore')
 
 ## 硕士论文
 
