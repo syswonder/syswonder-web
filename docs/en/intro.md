@@ -191,10 +191,18 @@ with existing Linux and RTOS ecosystems.
   concerns are primarily addressed by the underlying Type 1 hypervisor
   (hvisor).
 
-- A set of operating system foundational components implemented in Rust,
-  such as file systems, network protocol stacks, memory managers, and
-  message communication mechanisms. These components can be used to
-  build specific library operating systems.
+- An operating system for embodied artificial intelligence [Robonix] (https://github.com/syswonder/robonix), explores how to construct an
+  embodied “brain” from a system-level perspective.  Robonix is designed
+  to allow embodied robots to acquire new skills and accomplish new
+  tasks easily, by decoupling AI models from embodied hardware. Robonix
+  introduces a system service framework based on Perception,
+  Interconnection, Cognition, and Control. This framework abstracts
+  shared system-level capabilities, simplifying the development and
+  execution of models and skills.  Ultimately, Robonix aims to make it
+  easier for a wide range of robots to construct their own intelligent
+  “brains,” foster an ecosystem in which embodied intelligence software
+  and hardware can evolve independently, and make embodied robots more
+  capable, more accessible, and easier to use.
 
 ## Future Vision
 
