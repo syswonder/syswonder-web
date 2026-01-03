@@ -191,7 +191,7 @@ with existing Linux and RTOS ecosystems.
   concerns are primarily addressed by the underlying Type 1 hypervisor
   (hvisor).
 
-- An operating system for embodied artificial intelligence [Robonix] (https://github.com/syswonder/robonix), explores how to construct an
+- An operating system for embodied artificial intelligence [Robonix](https://github.com/syswonder/robonix), explores how to construct an
   embodied “brain” from a system-level perspective.  Robonix is designed
   to allow embodied robots to acquire new skills and accomplish new
   tasks easily, by decoupling AI models from embodied hardware. Robonix

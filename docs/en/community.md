@@ -38,7 +38,7 @@ community's technical vision, guides and builds core community projects.
       <img class="card-img" src="https://yuzhang-nwpu.github.io/yuzhang/photos/zhangyu.png" alt="zy" style="height:200px">
       <div class="container">
         <h4>Yu Zhang, Chair</h4>
-        <p>Northwestern Polytechnical University</p>
+        <p>Northwestern Polytechnical <br> University</p>
         <a href="https://teacher.nwpu.edu.cn/yuzhang.html" class="btn btn-primary stretched-link">More</a>
       </div>
     </div>
@@ -49,7 +49,7 @@ community's technical vision, guides and builds core community projects.
       <img class="card-img" src="https://caodg.github.io/caodg/img/caodg.png" alt="caodg" style="height:200px;">
       <div class="container">
         <h4>Donggang Cao</h4>
-        <p>Peking University</p>
+        <p>Peking <br> University</p>
         <a href="https://cs.pku.edu.cn/info/1210/2915.htm" class="btn btn-primary stretched-link">More</a>
       </div>
     </div>
@@ -60,7 +60,7 @@ community's technical vision, guides and builds core community projects.
       <img class="card-img" src="https://www.cs.tsinghua.edu.cn/__local/3/EA/2B/A0177095645B03C810A03FD0EA8_F10993A0_1075E.jpg" alt="cy" style="height:200px">
       <div class="container">
         <h4>Yu Chen</h4>
-        <p>Tsinghua University</p>
+        <p>Tsinghua <br> University</p>
         <a href="https://www.cs.tsinghua.edu.cn/info/1112/3500.htm" class="btn btn-primary stretched-link">More</a>
       </div>
     </div>
@@ -77,7 +77,7 @@ community's technical vision, guides and builds core community projects.
       <img class="card-img" src="https://www.cs.tsinghua.edu.cn/__local/2/49/01/382767512A6D170C914F061BA08_814D0E83_1666C.jpg" alt="ck" style="height:200px">
       <div class="container">
         <h4>Kang Chen</h4>
-        <p>Tsinghua University</p>
+        <p>Tsinghua <br> University</p>
         <a href="http://madsys.cs.tsinghua.edu.cn/~kangchen/" class="btn btn-primary stretched-link">More</a>
       </div>
     </div>
@@ -99,7 +99,7 @@ community's technical vision, guides and builds core community projects.
       <img class="card-img" src="https://ict.cas.cn/sourcedb/cn/jssrck/201212/P020221108527707635438.jpg" alt="ld" style="height:200px">
       <div class="container">
         <h4>Dong Li</h4>
-        <p>ICT, Chinese Academy of Sciences</p>
+        <p>ICT, Chinese Academy <br> of Sciences</p>
         <a href="http://www.ict.cas.cn/sourcedb/cn/jssrck/201212/t20121207_3701870.html" class="btn btn-primary stretched-link">More</a>
       </div>
     </div>
@@ -117,7 +117,7 @@ community's technical vision, guides and builds core community projects.
       <img class="card-img" src="https://www.cs.sjtu.edu.cn/upload/image/jiaoshiml/薛栋梁.jpg" alt="xdl" style="height:200px">
       <div class="container">
         <h4>Dongliang Xue</h4>
-        <p>Shanghai Jiaotong University</p>
+        <p>Shanghai Jiao Tong <br> University</p>
         <a href="https://www.cs.sjtu.edu.cn/jiaoshiml/xuedongliang.html" class="btn btn-primary stretched-link">More</a>
       </div>
     </div>
