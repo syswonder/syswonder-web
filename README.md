@@ -7,13 +7,10 @@ server at the docs directory is ok.
 
 For example
 
-```
+```bash
 git clone https://github.com/syswonder/syswonder-web
-
 cd syswonder-web/docs
-
-python -m http.server
-
+python3 -m http.server
 ```
 
 then open a browser and visit http://localhost:8000
