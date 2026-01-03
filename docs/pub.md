@@ -3,13 +3,13 @@
 ## 白皮书
 
 <i class="fa-regular fa-book"></i> 具身智能操作系统技术白皮书 v0.1 草案, 
-发布日期：2025年12月29日，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/Syswonder_EAIOS_whitepaper-v0.1.pdf':ignore')
+发布日期：2025年12月29日，[<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/Syswonder_EAIOS_whitepaper-v0.1.pdf ':ignore')
 
 
 ## 报告
 
 <i class="fa-solid fa-bullhorn"></i> **2025年全国大学生计算机系统能力大赛操作系统设计赛区域赛技术培训（第8场）** 
-* 具身智能与基于hvisor的泛在操作系统新型内核架构, 陈康, 2025年12月20日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/syswonder-20251220-hvisor.pdf':ignore')
+* 具身智能与基于hvisor的泛在操作系统新型内核架构, 陈康, 2025年12月20日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](/download/syswonder-20251220-hvisor.pdf ':ignore')
 
 2025年全国大学生计算机系统能力大赛操作系统设计赛区域赛技术培训（第8场）
 [详细信息](https://mp.weixin.qq.com/s/1km4CPacSw-VCTSyi17drA)
@@ -96,3 +96,10 @@
 12. **基于ARMv8的虚拟机监控器的设计与实现**, 丁韶峰, 清华大学本科毕设, 2023, [<i class="fa-brands fa-github"></i> 原型源码](https://github.com/syswonder/sysHyper-t1)
 
 13. **一种Rust语言实现的Type-1型轻量级嵌入式Hypervisor**, 陈林锟, 哈尔滨工业大学（深圳）本科毕设, 2023, [<i class="fa-brands fa-github"></i> 原型源码](https://github.com/syswonder/rustbao)
+
+## 技术博客
+
+技术博客文档主仓库在 [https://github.com/syswonder/blog](https://github.com/syswonder/blog)，提交报告的方法和[提交代码的方法](contrib.md)一致。
+
+博客文档可以在线查看，可以访问 [https://blog.syswonder.org](https://blog.syswonder.org), 或者 [https://syswonder.github.io/blog](https://syswonder.github.io/blog)
+
