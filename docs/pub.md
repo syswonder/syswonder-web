@@ -3,7 +3,7 @@
 ## 白皮书
 
 <i class="fa-regular fa-book"></i> **具身智能操作系统技术白皮书**, 
-版本：v0.1，发布日期：2025年12月29日，修订日期：2026年1月7日，[<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/Syswonder_EAIOS_whitepaper-v0.1.pdf ':ignore')，[白皮书修订日志](/changelog.md)
+版本：v0.1，发布日期：2026年1月29日 [<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/Syswonder_EAIOS_whitepaper-v0.1.pdf ':ignore')，[白皮书修订日志](/changelog.md)
 
 
 ## 报告
