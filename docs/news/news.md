@@ -4,8 +4,40 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+<i class="fa-solid fa-user-group"></i> **2026 春季学期 Hypervisor 讨论会**
 
-<i class="fa-solid fa-people-group"></i> **矽望社区技术委员会2026年第一次会议召开**
+时间：周三下午14:00
+
+地点：北京大学理科1号楼1621
+
+在线：腾讯会议 #970-644-6531
+
+内容：[Hypervisor maillist archive (订阅者可见)](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/latest)
+
+<i class="fa-solid fa-user-group"></i> **2026 春季学期 具身智能OS 讨论会**
+
+时间：周一下午14:00
+
+地点：北京大学新燕园校区计算机学院340
+
+在线：腾讯会议 #970-644-6531
+
+内容：[Robotos maillist archive (订阅者可见)](https://maillist.syswonder.org/archives/list/robotos@syswonder.org/latest) 
+
+
+## <i class="fa-solid fa-bars-progress"></i> 社区动态
+
+### 具身智能操作系统技术白皮书正式发布
+
+由矽望社区编写的《具身智能操作系统技术白皮书 v0.1》正式由CCF泛在操作系统开放社区发布。
+白皮书从当前具身智能产业的发展现状出发，系统梳理并分析了当前具身智能软件系统开发中的若干问题，提出了一种面向具身智能的新型操作系统设计，旨在以操作系统范式重构具身智能的工程基础，并为构建大规模、可持续的具身智能产业生态提供支撑。
+
+白皮书详情请见:
+
+<i class="fa-brands fa-weixin"></i>[CCF开源发展技术委员会公众号](https://mp.weixin.qq.com/s/bwhBaF-eplYMF_YonkyFaw)，或<i class="fa-brands fa-weixin"></i>[泛在操作系统公众号](https://mp.weixin.qq.com/s/wqoFFljtTtTNVpRNd4ZpRQ)
+
+
+### <i class="fa-solid fa-people-group"></i> 矽望社区技术委员会2026年第一次会议召开
 
 2026年1月2日，矽望社区技术委员会在北京召开了2026年第一次会议，7名委员参
 加了本次会议。会议首先审议通过了[《矽望泛在操作系统开源社区章程》](/charter.md)，然后按照章程要求推选张羽教授为新一届技术委员会主任委员。
@@ -18,28 +50,6 @@
 讨论。委员们一致同意未来继续支持社区工作，以社区项目为纽带加强合作，持
 续提升社区影响力。
 
-<i class="fa-solid fa-user-group"></i> **2025 秋季学期 Hypervisor 讨论会**
-
-时间：周四下午14:00
-
-地点：北京大学理科1号楼1501
-
-在线：腾讯会议 #970-644-6531
-
-内容：[Hypervisor maillist archive (订阅者可见)](https://maillist.syswonder.org/archives/list/hypervisor@syswonder.org/latest)
-
-<i class="fa-solid fa-user-group"></i> **2025 秋季学期 具身智能OS 讨论会**
-
-时间：周一下午14:00
-
-地点：北京大学理科1号楼1504
-
-在线：腾讯会议 #970-644-6531
-
-内容：[Robotos maillist archive (订阅者可见)](https://maillist.syswonder.org/archives/list/robotos@syswonder.org/latest) 
-
-
-## <i class="fa-solid fa-bars-progress"></i> 项目进展
 
 ### 矽望社区hvisor成为CCF泛在操作系统开放社区首批孵化支持项目
 
