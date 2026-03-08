@@ -36,6 +36,16 @@
 
 <i class="fa-brands fa-weixin"></i>[CCF开源发展技术委员会公众号](https://mp.weixin.qq.com/s/bwhBaF-eplYMF_YonkyFaw)，或<i class="fa-brands fa-weixin"></i>[泛在操作系统公众号](https://mp.weixin.qq.com/s/wqoFFljtTtTNVpRNd4ZpRQ)
 
+### <i class="fa-solid fa-bullhorn"></i> **hvisor v0.4 released**
+
+**本次版本围绕 PCIe 子系统重构和系统稳定性优化，支持ecam/dwc/Loongarch64等多种不同等PCIe架构，显著提升了 hvisor 在 x86 / ARM / RISC-V / LoongArch 等真实硬件平台上的可用性与可扩展性，标志着项目从“功能可用”走向“工程可部署”**
+
+**Release date: Jan 29, 2026**
+
+**[release notes](https://github.com/syswonder/hvisor/releases/tag/v0.4)**
+
+详情请见 <i class="fa-brands fa-weixin"></i>[矽望社区发布hvisor v0.4](https://mp.weixin.qq.com/s/YP65gNfKLCmvkiOVRIuRgw)
+
 
 ### <i class="fa-solid fa-people-group"></i> 矽望社区技术委员会2026年第一次会议召开
 
