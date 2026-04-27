@@ -27,6 +27,16 @@
 
 ## <i class="fa-solid fa-bars-progress"></i> 社区动态
 
+### <i class="fa-solid fa-bullhorn"></i> **hvisor v0.5 released**
+
+本次版本支持了 Android 系统部署，并大幅完善了 IOMMU 支持、PCIe 子系统及系统并发稳定性，标志着 hvisor 在赋能智能座舱、复杂移动终端等前沿应用场景上迈出了关键一步。
+
+**Release date: Apr 27, 2026**
+
+**[release notes](https://github.com/syswonder/hvisor/releases/tag/v0.5)**
+
+详情请见 <i class="fa-brands fa-weixin"></i>[矽望社区发布 hvisor v0.5](https://mp.weixin.qq.com/s/_DGZxGWiqCoKg0CFXnT5xg)
+
 ### 具身智能操作系统技术白皮书正式发布
 
 由矽望社区编写的《具身智能操作系统技术白皮书 v0.1》正式由CCF泛在操作系统开放社区发布。
