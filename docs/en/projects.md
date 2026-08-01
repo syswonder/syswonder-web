@@ -17,16 +17,6 @@ The hvisor design references much from [jailhouse](https://github.com/siemens/ja
 
 <i class="fa-solid fa-envelopes-bulk"></i> Mail list: [hypervisor@syswonder.org](https://maillist.syswonder.org/mailman3/lists/hypervisor.syswonder.org/)
 
-## ruxos
-
-![](../_media/ruxos-logo.svg)
-
-ruxos is a [Unikernel](https://en.wikipedia.org/wiki/Unikernel) operating system, supporting Linux applications. ruxos is inspired by [ArceOS](https://github.com/rcore-os/arceos). ArceOS defines a set of interfaces among different os modules. ruxos addes/optimizes/replaces necessary modules to meet the requirements of different ubiquitous applications. Ruxos is developped in type-safe Rust language. 
-
-<i class="fa-brands fa-github"></i> Repo: [https://github.com/syswonder/ruxos](https://github.com/syswonder/ruxos)
-
-<i class="fa-solid fa-envelopes-bulk"></i> Mail list: [unikernel@syswonder.org](https://maillist.syswonder.org/mailman3/lists/unikernel.syswonder.org/)
-
 ## Robonix
 
 <img src="../_media/robonix-logo.svg" width=400>
@@ -41,5 +31,15 @@ By simplifying the construction of intelligent robot brains and promoting the co
 <i class="fa-brands fa-github"></i> Repo: [https://github.com/syswonder/robonix](https://github.com/syswonder/robonix)
 
 <i class="fa-solid fa-envelopes-bulk"></i> Mail list: [robotos@syswonder.org](https://maillist.syswonder.org/mailman3/lists/robotos.syswonder.org/)
+
+## ruxos
+
+![](../_media/ruxos-logo.svg)
+
+ruxos is a [Unikernel](https://en.wikipedia.org/wiki/Unikernel) operating system, supporting Linux applications. ruxos is inspired by [ArceOS](https://github.com/rcore-os/arceos). ArceOS defines a set of interfaces among different os modules. ruxos addes/optimizes/replaces necessary modules to meet the requirements of different ubiquitous applications. Ruxos is developped in type-safe Rust language. 
+
+<i class="fa-brands fa-github"></i> Repo: [https://github.com/syswonder/ruxos](https://github.com/syswonder/ruxos)
+
+<i class="fa-solid fa-envelopes-bulk"></i> Mail list: [unikernel@syswonder.org](https://maillist.syswonder.org/mailman3/lists/unikernel.syswonder.org/)
 
 

@@ -8,9 +8,10 @@
 
 > 用Rust语言实现安全、智能、专用的新型操作系统，让设备拥有智脑
 
-[<i class="fa-solid fa-book"></i> 技术博客](https://blog.syswonder.org)
-[<i class="fa-brands fa-github"></i> GitHub](https://github.com/syswonder)
-[了解更多 <i class="fa-solid fa-angles-down"></i>](#main)
+
+[<i class="fa-solid fa-book"></i> Robonix 具身智能OS](https://robonix.syswonder.org)
+[<i class="fa-solid fa-book"></i> Hvisor 虚拟机监控器](https://hvisor.syswonder.org)
+[更多 <i class="fa-solid fa-angles-down"></i>](#main)
 
 <!-- background image -->
 ![](_media/bg-bluesea.jpg)

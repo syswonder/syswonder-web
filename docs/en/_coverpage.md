@@ -8,8 +8,8 @@
 
 > Building safe, intelligent and scenario-specific new operating system in Rust language
 
-[<i class="fa-brands fa-github"></i> GitHub](https://github.com/syswonder)
-[<i class="fa-solid fa-book"></i> TechBlog](https://blog.syswonder.org)
-[Readme <i class="fa-solid fa-angles-down"></i>](#main)
+[<i class="fa-solid fa-book"></i>Robonix Embodied AI OS](https://robonix.syswonder.org)
+[<i class="fa-solid fa-book"></i>Hvisor Hypervisor](https://hvisor.syswonder.org)
+[More <i class="fa-solid fa-angles-down"></i>](#main)
 
 ![](../_media/bg-bluesea.jpg)
