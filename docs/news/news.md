@@ -57,6 +57,16 @@
 
 ## <i class="fa-solid fa-bars-progress"></i> 社区动态
 
+### <i class="fa-solid fa-bullhorn"></i> **hvisor v0.6 released**
+
+本次版本新增 **Nvidia Jetson Orin** 和进迭时空 **Spacemit k3-com260** 等硬件平台支持，强化了**龙芯平台的多核虚拟化能力**，**增强了 PCIe 子系统**（DWC MSI 注入、SR-IOV 支持）与 **virtio 虚拟化能力**（virtio-scmi 设备、virtio-pci 传输层），并**新增星绽 Asterinas、开源鸿蒙 OpenHarmony 等系统支持**，标志着 hvisor 在复杂虚拟化场景上迈出了坚实一步。
+
+**Release date: Aug 26, 2026**
+
+**[Release notes](https://github.com/syswonder/hvisor/releases/tag/v0.6)**
+
+详情请见 <i class="fa-brands fa-weixin"></i>[矽望社区发布 hvisor v0.6](https://mp.weixin.qq.com/s/Ks7LOJMj9P_QGAWxMl1Enw)。
+
 ### <i class="fa-solid fa-bullhorn"></i> **hvisor v0.5 released**
 
 本次版本支持了 Android 系统部署，并大幅完善了 IOMMU 支持、PCIe 子系统及系统并发稳定性，标志着 hvisor 在赋能智能座舱、复杂移动终端等前沿应用场景上迈出了关键一步。
