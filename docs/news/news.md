@@ -4,6 +4,22 @@
 
 ## <i class="fa-regular fa-calendar-check"></i> 社区活动
 
+### 具身智能操作系统 Robonix v1.1 开源发布
+
+2026年11月7日举行的2026 CCF中国软件大会上，矽望社区发布了具身智能操作系统Robonixv1.1版本，并预告将推出 Robonix开源创新激励计划。
+
+详情请见 <i class="fa-brands fa-weixin"></i>[Robonix 具身智能操作系统 v1.1 在 2026 CCF 中国软件大会发布](https://mp.weixin.qq.com/s/hoDV_YABeTwIjThtlv74AA?poc_token=HIjhAmujU-6oBfuDmDbBySUoK-Fdx3SdAvJnBl6a)
+
+韩喻泷同学做了 [Robonix：一种智能体式具身智能操作系统](https://mp.weixin.qq.com/s/Ci-8ZLsULkUfX_v_IxNstA)技术分享报告，介绍了 Robonix v1.1 新特性。 
+
+### 具身智能操作系统 Robonix v1.0 开源发布
+
+矽望社区研发的具身智能操作系统Robonix在2026年8月15日的CCF中国开源大会上
+宣布开源发布v1.0版本。
+
+详情请见 <i class="fa-brands fa-weixin"></i>[Robonix具身智能操作系统在2026 CCF中国开源大会正式发布](https://mp.weixin.qq.com/s/Vco2Lp38hQlzdNCJ_4eb2Q)
+
+
 <i class="fa-solid fa-bullhorn"></i> **2026 CCF中国开源大会分论坛：Robonix具身智能操作系统**
 
 大会时间：2026年8月15日至16日
