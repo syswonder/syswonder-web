@@ -2,11 +2,25 @@
 
 ## 白皮书
 
+
 <i class="fa-regular fa-book"></i> **具身智能操作系统技术白皮书**, 
 版本：v0.1，发布日期：2026年1月29日 [<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/Syswonder_EAIOS_whitepaper-v0.1.pdf ':ignore')，[白皮书修订日志](/changelog.md)
 
 
 ## 报告
+
+
+<i class="fa-solid fa-bullhorn"></i> **Robonix 技术报告** 
+* Roboix 设计原理、RTDL 执行与源码实践, 2026年11月4日, [<i class="fa-regular fa-file-pdf"></i> 报告下载, 提取码: az7p](https://disk.pku.edu.cn/link/AA00AC0419CA53403FB9CB20DBD877632F ':ignore')
+
+<i class="fa-solid fa-bullhorn"></i> **2026 CCF 中国软件大会 Robonix** 
+* Roboix 具身智能操作系统 v1.1, 曹东刚, 2026年11月7日, [<i class="fa-regular fa-file-pdf"></i> 报告下载, 提取码: rE0H](https://disk.pku.edu.cn/link/AAFD2203855A4F4993B08C3A15B67C7276 ':ignore')
+* 具身智能系统软件体系的探索和开源实践, 陈康, 2026年11月6日, [<i class="fa-regular fa-file-pdf"></i> 报告下载, 提取码: XZoM](https://disk.pku.edu.cn/link/AA0E633530AED84801981C049F16358D19 ':ignore')
+* Robonix：一种智能体式具身智能操作系统, 韩喻泷, 2026年11月7日, [<i class="fa-regular fa-file-pdf"></i> 报告下载, 提取码: h6L4](https://disk.pku.edu.cn/link/AAEA63014EA1E24D02BA192C83CD112DCB ':ignore')
+
+<i class="fa-solid fa-bullhorn"></i> **2026 CCF 中国开源大会 Robonix论坛报告** 
+* 具身智能操作系统Robonix原理与架构, 陈康, 2026年8月15日, [<i class="fa-regular fa-file-pdf"></i> 报告下载, 提取码: NEpB](https://disk.pku.edu.cn/link/AAA30353A9EEE94026B8D646898EFF3E8A ':ignore')
+
 
 <i class="fa-solid fa-bullhorn"></i> **2025年全国大学生计算机系统能力大赛操作系统设计赛区域赛技术培训（第8场）** 
 * 具身智能与基于hvisor的泛在操作系统新型内核架构, 陈康, 2025年12月20日, [<i class="fa-regular fa-file-pdf"></i> 报告下载](http://syswonder-cdn.oscommunity.cn/syswonder-20251220-hvisor.pdf ':ignore')
